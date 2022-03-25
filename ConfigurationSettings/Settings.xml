@@ -125,6 +125,12 @@
     <doDispose>false</doDispose>
   </Property>
   <Property>
+    <name>expand8nH6pGEcVUqBbCzqtU3q2g==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
     <name>RecordListLabel</name>
     <value xsi:type="xsd:string">Record List</value>
     <doPersist>true</doPersist>
@@ -378,14 +384,14 @@
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>expand2s3lvr3BG0C9nZqDls6a8Q==</name>
-    <value xsi:type="xsd:boolean">true</value>
+    <name>AllButSidebarLabel</name>
+    <value xsi:type="xsd:string">Record List &amp; MainContent</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>AllButSidebarLabel</name>
-    <value xsi:type="xsd:string">Record List &amp; MainContent</value>
+    <name>expand2s3lvr3BG0C9nZqDls6a8Q==</name>
+    <value xsi:type="xsd:boolean">true</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
@@ -606,6 +612,12 @@
     <doDispose>false</doDispose>
   </Property>
   <Property>
+    <name>expandCtjqlXgQo0mtjgJE1PEAUQ==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
     <name>ExcludedCoreTexts</name>
     <value xsi:type="xsd:string" />
     <doPersist>true</doPersist>
@@ -688,6 +700,12 @@
   <Property>
     <name>DictionaryPublicationLayout</name>
     <value xsi:type="xsd:string">C:\Program Files\SIL\FieldWorks 9\Language Explorer\DefaultConfigurations\Dictionary\Root.fwdictconfig</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandazzOVgRu+0yIPewjWlG2lA==</name>
+    <value xsi:type="xsd:boolean">true</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>

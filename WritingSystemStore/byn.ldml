@@ -2,7 +2,7 @@
 <ldml>
 	<identity>
 		<version number="0.0.1" />
-		<generation date="2022-03-25T13:18:20Z" />
+		<generation date="2022-03-25T13:33:36Z" />
 		<language type="byn" />
 		<special xmlns:sil="urn://www.sil.org/ldml/0.1">
 			<sil:identity defaultRegion="ER" />

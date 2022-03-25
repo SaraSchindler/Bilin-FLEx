@@ -117,7 +117,7 @@
   </Property>
   <Property>
     <name>db$local$entries-Index</name>
-    <value xsi:type="xsd:int">22</value>
+    <value xsi:type="xsd:int">3</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
@@ -364,13 +364,12 @@
   </Property>
   <Property>
     <name>db$local$lexicon$lexiconEdit$CurrentSliceObjectGuid</name>
-    <value xmlns:q2="http://microsoft.com/wsdl/types/" xsi:type="q2:guid">36a69a37-c4fa-4010-9dd3-c9c1e86562ea</value>
+    <value xmlns:q2="http://microsoft.com/wsdl/types/" xsi:type="q2:guid">00000000-0000-0000-0000-000000000000</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
   <Property>
     <name>db$local$lexicon$lexiconEdit$CurrentSlicePartName</name>
-    <value xsi:type="xsd:string">MoForm-Detail-AsLexemeForm</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
