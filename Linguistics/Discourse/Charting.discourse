@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Discourse>
+	<header>
+		<DsDiscourseData
+			guid="c3fe8c1e-ea5e-11de-9e45-0013722f8dec">
+			<ChartMarkers />
+			<ConstChartTempl />
+		</DsDiscourseData>
+	</header>
+</Discourse>

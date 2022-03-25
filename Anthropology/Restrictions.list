@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Restrictions>
+	<CmPossibilityList
+		guid="d743553e-ea5e-11de-842a-0013722f8dec">
+		<Abbreviation>
+			<AUni
+				ws="en">Res</AUni>
+		</Abbreviation>
+		<DateCreated
+			val="2018-8-2 16:32:6.320" />
+		<DateModified
+			val="2018-8-2 16:32:6.320" />
+		<Depth
+			val="1" />
+		<DisplayOption
+			val="0" />
+		<IsClosed
+			val="False" />
+		<IsSorted
+			val="False" />
+		<IsVernacular
+			val="False" />
+		<ItemClsid
+			val="7" />
+		<ListVersion
+			val="00000000-0000-0000-0000-000000000000" />
+		<Name>
+			<AUni
+				ws="en">Restrictions</AUni>
+		</Name>
+		<Possibilities>
+			<ownseq
+				class="CmPossibility"
+				guid="6ebc80f8-9ce0-45d9-bb49-3869591fb1ff">
+				<Abbreviation>
+					<AUni
+						ws="en">None</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.539" />
+				<DateModified
+					val="2022-3-11 10:30:4.539" />
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">No restrictions</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="bbcc810e-ea5e-11de-8a3b-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">NPub</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Do not publish</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="bbd86cc6-ea5e-11de-8964-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Case</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Case by case</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="bbe1f61a-ea5e-11de-9640-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Unk</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Unknown</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+		</Possibilities>
+		<PreventChoiceAboveLevel
+			val="0" />
+		<PreventDuplicates
+			val="False" />
+		<PreventNodeChoices
+			val="False" />
+		<UseExtendedFields
+			val="False" />
+		<WsSelector
+			val="-3" />
+	</CmPossibilityList>
+</Restrictions>

@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<References>
+	<CmPossibilityList
+		guid="b758e2a2-ea5e-11de-9d24-0013722f8dec">
+		<Abbreviation>
+			<AUni
+				ws="en">RefTyp</AUni>
+		</Abbreviation>
+		<DateCreated
+			val="2018-8-2 16:32:6.268" />
+		<DateModified
+			val="2018-8-2 16:32:6.268" />
+		<Depth
+			val="1" />
+		<DisplayOption
+			val="0" />
+		<IsClosed
+			val="False" />
+		<IsSorted
+			val="True" />
+		<IsVernacular
+			val="False" />
+		<ItemClsid
+			val="5119" />
+		<ListVersion
+			val="00000000-0000-0000-0000-000000000000" />
+		<Name>
+			<AUni
+				ws="en">Lexical Relations</AUni>
+		</Name>
+		<Possibilities>
+			<ownseq
+				class="LexRefType"
+				guid="b764ce50-ea5e-11de-864f-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">pt</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.555" />
+				<DateModified
+					val="2022-3-11 10:30:4.555" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">A part/whole relation establishes a link between the sense for the whole (e.g., room), and senses for the parts (e.g., ceiling, wall, floor).</Run>
+					</AStr>
+				</Description>
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<MappingType
+					val="3" />
+				<Name>
+					<AUni
+						ws="en">Part</AUni>
+				</Name>
+				<ReverseAbbreviation>
+					<AUni
+						ws="en">wh</AUni>
+				</ReverseAbbreviation>
+				<ReverseName>
+					<AUni
+						ws="en">Whole</AUni>
+				</ReverseName>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="LexRefType"
+				guid="b770ba08-ea5e-11de-9ca9-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">spec</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.555" />
+				<DateModified
+					val="2022-3-11 10:30:4.555" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">A generic/specific relation establishes a link between the sense for the generic (e.g., bird), and senses for the specifics (e.g., robin, cardinal, dove).</Run>
+					</AStr>
+				</Description>
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<MappingType
+					val="3" />
+				<Name>
+					<AUni
+						ws="en">Specific</AUni>
+				</Name>
+				<ReverseAbbreviation>
+					<AUni
+						ws="en">gen</AUni>
+				</ReverseAbbreviation>
+				<ReverseName>
+					<AUni
+						ws="en">Generic</AUni>
+				</ReverseName>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="LexRefType"
+				guid="b77a435c-ea5e-11de-9a66-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">syn</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.555" />
+				<DateModified
+					val="2022-3-11 10:30:4.555" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Use this type for synonym relationships (e.g., fast, fleet, hasty).</Run>
+					</AStr>
+				</Description>
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<MappingType
+					val="0" />
+				<Name>
+					<AUni
+						ws="en">Synonyms</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="LexRefType"
+				guid="b7862f14-ea5e-11de-8d47-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">ant</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.555" />
+				<DateModified
+					val="2022-3-11 10:30:4.555" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Use this type for antonym relationships (e.g., fast, slow).</Run>
+					</AStr>
+				</Description>
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<MappingType
+					val="1" />
+				<Name>
+					<AUni
+						ws="en">Antonym</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="LexRefType"
+				guid="b7921ac2-ea5e-11de-880d-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">cal</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.555" />
+				<DateModified
+					val="2022-3-11 10:30:4.555" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Use this type for calendar relationships (e.g., days of week, months in year).</Run>
+					</AStr>
+				</Description>
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<MappingType
+					val="4" />
+				<Name>
+					<AUni
+						ws="en">Calendar</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="LexRefType"
+				guid="b79ba420-ea5e-11de-8f71-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">cf</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.555" />
+				<DateModified
+					val="2022-3-11 10:30:4.555" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Use this type for relationships that cannot be classified by a specific label, or of which there are too few examples to warrant creating a custom lexical relation.</Run>
+					</AStr>
+				</Description>
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<MappingType
+					val="5" />
+				<Name>
+					<AUni
+						ws="en">Compare</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="LexRefType"
+				guid="b7a78fd8-ea5e-11de-9ef2-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">clf. for</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.555" />
+				<DateModified
+					val="2022-3-11 10:30:4.555" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Use this relation for linking classifiers to the words that they classify.</Run>
+					</AStr>
+				</Description>
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<MappingType
+					val="3" />
+				<Name>
+					<AUni
+						ws="en">Classified Noun</AUni>
+				</Name>
+				<ReverseAbbreviation>
+					<AUni
+						ws="en">clf</AUni>
+				</ReverseAbbreviation>
+				<ReverseName>
+					<AUni
+						ws="en">Classifier</AUni>
+				</ReverseName>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+		</Possibilities>
+		<PreventChoiceAboveLevel
+			val="0" />
+		<PreventDuplicates
+			val="True" />
+		<PreventNodeChoices
+			val="False" />
+		<UseExtendedFields
+			val="False" />
+		<WsSelector
+			val="-3" />
+	</CmPossibilityList>
+</References>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Education>
+	<CmPossibilityList
+		guid="d70c7f6e-ea5e-11de-9dc3-0013722f8dec">
+		<Abbreviation>
+			<AUni
+				ws="en">EdLev</AUni>
+		</Abbreviation>
+		<DateCreated
+			val="2018-8-2 16:32:6.323" />
+		<DateModified
+			val="2018-8-2 16:32:6.323" />
+		<Depth
+			val="127" />
+		<DisplayOption
+			val="0" />
+		<IsClosed
+			val="False" />
+		<IsSorted
+			val="False" />
+		<IsVernacular
+			val="False" />
+		<ItemClsid
+			val="7" />
+		<ListVersion
+			val="00000000-0000-0000-0000-000000000000" />
+		<Name>
+			<AUni
+				ws="en">Education Levels</AUni>
+		</Name>
+		<Possibilities>
+			<ownseq
+				class="CmPossibility"
+				guid="bda22e02-ea5e-11de-9452-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">No</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">No Formal</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="bdabb760-ea5e-11de-8ce8-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Pri</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Primary</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="bdb7a30e-ea5e-11de-8919-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">JrHi</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Junior High</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="bdc38ec6-ea5e-11de-9902-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">HS</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">High School</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="bdcd1824-ea5e-11de-89ce-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">UndGrad</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Undergraduate</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="bdd903d2-ea5e-11de-9be6-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Grad</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Graduate</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="bde4ef8a-ea5e-11de-8623-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Prof</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Professor</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+		</Possibilities>
+		<PreventChoiceAboveLevel
+			val="0" />
+		<PreventDuplicates
+			val="False" />
+		<PreventNodeChoices
+			val="False" />
+		<UseExtendedFields
+			val="False" />
+		<WsSelector
+			val="-3" />
+	</CmPossibilityList>
+</Education>

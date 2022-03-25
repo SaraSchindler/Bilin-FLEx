@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConfidenceLevels>
+	<CmPossibilityList
+		guid="d99e8542-ea5e-11de-9301-0013722f8dec">
+		<Abbreviation>
+			<AUni
+				ws="en">Conf</AUni>
+		</Abbreviation>
+		<DateCreated
+			val="2018-8-2 16:32:6.320" />
+		<DateModified
+			val="2018-8-2 16:32:6.320" />
+		<Depth
+			val="1" />
+		<DisplayOption
+			val="0" />
+		<IsClosed
+			val="False" />
+		<IsSorted
+			val="False" />
+		<IsVernacular
+			val="False" />
+		<ItemClsid
+			val="7" />
+		<ListVersion
+			val="00000000-0000-0000-0000-000000000000" />
+		<Name>
+			<AUni
+				ws="en">Confidence Levels</AUni>
+		</Name>
+		<Possibilities>
+			<ownseq
+				class="CmPossibility"
+				guid="bb9f349c-ea5e-11de-9293-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">High</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">High</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="bbab204a-ea5e-11de-99a0-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Med</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Medium</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="bbb70c02-ea5e-11de-8a97-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Low</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Low</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="bbc09560-ea5e-11de-8de5-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Unk</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Unknown</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+		</Possibilities>
+		<PreventChoiceAboveLevel
+			val="0" />
+		<PreventDuplicates
+			val="False" />
+		<PreventNodeChoices
+			val="False" />
+		<UseExtendedFields
+			val="False" />
+		<WsSelector
+			val="-3" />
+	</CmPossibilityList>
+</ConfidenceLevels>

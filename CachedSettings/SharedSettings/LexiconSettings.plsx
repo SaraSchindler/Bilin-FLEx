@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectLexiconSettings projectSharing="false">
+  <WritingSystems addToSldr="true">
+    <WritingSystem id="en">
+      <Abbreviation>Eng</Abbreviation>
+      <LanguageName>English</LanguageName>
+    </WritingSystem>
+    <WritingSystem id="byn">
+      <Abbreviation>Bil</Abbreviation>
+      <LanguageName>Bilin</LanguageName>
+    </WritingSystem>
+    <WritingSystem id="de">
+      <Abbreviation>Ger</Abbreviation>
+      <LanguageName>German</LanguageName>
+      <SystemCollation>de</SystemCollation>
+    </WritingSystem>
+  </WritingSystems>
+</ProjectLexiconSettings>

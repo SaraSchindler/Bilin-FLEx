@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AnnotationDefs>
+	<CmPossibilityList
+		guid="ea346c01-022f-4f34-b938-219ce7b65b73">
+		<Abbreviation>
+			<AUni
+				ws="en">AnnDefn</AUni>
+		</Abbreviation>
+		<DateCreated
+			val="2018-8-2 16:32:6.325" />
+		<DateModified
+			val="2018-8-2 16:32:6.325" />
+		<Depth
+			val="0" />
+		<Description>
+			<AStr
+				ws="en">
+				<Run
+					ws="en">Annotation types defined for use in FieldWorks.</Run>
+			</AStr>
+		</Description>
+		<DisplayOption
+			val="0" />
+		<IsClosed
+			val="False" />
+		<IsSorted
+			val="False" />
+		<IsVernacular
+			val="False" />
+		<ItemClsid
+			val="35" />
+		<ListVersion
+			val="00000000-0000-0000-0000-000000000000" />
+		<Name>
+			<AUni
+				ws="en">Annotation Definitions</AUni>
+		</Name>
+		<Possibilities>
+			<ownseq
+				class="CmAnnotationDefn"
+				guid="7ffc4eab-856a-43cc-bc11-0db55738c15b">
+				<Abbreviation>
+					<AUni
+						ws="en">Nt</AUni>
+				</Abbreviation>
+				<AllowsComment
+					val="True" />
+				<AllowsFeatureStructure
+					val="False" />
+				<AllowsInstanceOf
+					val="False" />
+				<BackColor
+					val="0" />
+				<CanCreateOrphan
+					val="True" />
+				<CopyCutPastable
+					val="True" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">General category for ad-hoc notes of any kind.</Run>
+					</AStr>
+				</Description>
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<InstanceOfSignature
+					val="0" />
+				<IsProtected
+					val="True" />
+				<MaxDupOccur
+					val="0" />
+				<Multi
+					val="True" />
+				<Name>
+					<AUni
+						ws="en">Note</AUni>
+				</Name>
+				<PromptUser
+					val="False" />
+				<Severity
+					val="0" />
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="CmAnnotationDefn"
+						guid="56de9b1a-1ce7-42a1-aa76-512ebeff0dda">
+						<Abbreviation>
+							<AUni
+								ws="en">ConsNt</AUni>
+						</Abbreviation>
+						<AllowsComment
+							val="True" />
+						<AllowsFeatureStructure
+							val="False" />
+						<AllowsInstanceOf
+							val="False" />
+						<BackColor
+							val="0" />
+						<CanCreateOrphan
+							val="True" />
+						<CopyCutPastable
+							val="True" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Note written from consultant to translation team.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<InstanceOfSignature
+							val="0" />
+						<IsProtected
+							val="True" />
+						<MaxDupOccur
+							val="0" />
+						<Multi
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Consultant Note</AUni>
+						</Name>
+						<PromptUser
+							val="True" />
+						<Severity
+							val="0" />
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+						<UserCanCreate
+							val="True" />
+						<ZeroWidth
+							val="True" />
+					</ownseq>
+					<ownseq
+						class="CmAnnotationDefn"
+						guid="80ae5729-9cd8-424d-8e71-96c1a8fd5821">
+						<Abbreviation>
+							<AUni
+								ws="en">TransNt</AUni>
+						</Abbreviation>
+						<AllowsComment
+							val="True" />
+						<AllowsFeatureStructure
+							val="False" />
+						<AllowsInstanceOf
+							val="False" />
+						<BackColor
+							val="0" />
+						<CanCreateOrphan
+							val="True" />
+						<CopyCutPastable
+							val="True" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Note written by translation team.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<InstanceOfSignature
+							val="0" />
+						<IsProtected
+							val="True" />
+						<MaxDupOccur
+							val="0" />
+						<Multi
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Translator Note</AUni>
+						</Name>
+						<PromptUser
+							val="True" />
+						<Severity
+							val="0" />
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+						<UserCanCreate
+							val="True" />
+						<ZeroWidth
+							val="True" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+				<UserCanCreate
+					val="True" />
+				<ZeroWidth
+					val="False" />
+			</ownseq>
+			<ownseq
+				class="CmAnnotationDefn"
+				guid="8d4cbd80-0dca-4a83-8a1f-9db3aa4cff54">
+				<Abbreviation>
+					<AUni
+						ws="en">Txt</AUni>
+				</Abbreviation>
+				<AllowsComment
+					val="False" />
+				<AllowsFeatureStructure
+					val="False" />
+				<AllowsInstanceOf
+					val="False" />
+				<BackColor
+					val="0" />
+				<CanCreateOrphan
+					val="False" />
+				<CopyCutPastable
+					val="False" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Annotations applied to larger parts of a text, such as a sentence or clause. This is a grouping category and should not be instantiated.</Run>
+					</AStr>
+				</Description>
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<InstanceOfSignature
+					val="0" />
+				<IsProtected
+					val="True" />
+				<MaxDupOccur
+					val="0" />
+				<Multi
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Text</AUni>
+				</Name>
+				<PromptUser
+					val="False" />
+				<Severity
+					val="0" />
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="CmAnnotationDefn"
+						guid="20cf6c1c-9389-4380-91f5-dfa057003d51">
+						<Abbreviation>
+							<AUni
+								ws="en">pt</AUni>
+						</Abbreviation>
+						<AllowsComment
+							val="False" />
+						<AllowsFeatureStructure
+							val="False" />
+						<AllowsInstanceOf
+							val="False" />
+						<BackColor
+							val="0" />
+						<CanCreateOrphan
+							val="False" />
+						<CopyCutPastable
+							val="True" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Used internally by the program to keep track of when some process was last applied to an object.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<InstanceOfSignature
+							val="0" />
+						<IsProtected
+							val="True" />
+						<MaxDupOccur
+							val="0" />
+						<Multi
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Process Time</AUni>
+						</Name>
+						<PromptUser
+							val="False" />
+						<Severity
+							val="0" />
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+						<UserCanCreate
+							val="False" />
+						<ZeroWidth
+							val="False" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+				<UserCanCreate
+					val="False" />
+				<ZeroWidth
+					val="False" />
+			</ownseq>
+			<ownseq
+				class="CmAnnotationDefn"
+				guid="f094a0b0-01b8-4621-97f1-4d775bc29ce7">
+				<Abbreviation>
+					<AUni
+						ws="en">Cmt</AUni>
+				</Abbreviation>
+				<AllowsComment
+					val="True" />
+				<AllowsFeatureStructure
+					val="False" />
+				<AllowsInstanceOf
+					val="False" />
+				<BackColor
+					val="0" />
+				<CanCreateOrphan
+					val="True" />
+				<CopyCutPastable
+					val="True" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">General category for comments of any kind.</Run>
+					</AStr>
+				</Description>
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<InstanceOfSignature
+					val="0" />
+				<IsProtected
+					val="True" />
+				<MaxDupOccur
+					val="0" />
+				<Multi
+					val="True" />
+				<Name>
+					<AUni
+						ws="en">Comment</AUni>
+				</Name>
+				<PromptUser
+					val="False" />
+				<Severity
+					val="0" />
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+				<UserCanCreate
+					val="True" />
+				<ZeroWidth
+					val="False" />
+			</ownseq>
+			<ownseq
+				class="CmAnnotationDefn"
+				guid="82e2fd92-48d8-43c9-ba84-cc4a2a5beead">
+				<Abbreviation>
+					<AUni
+						ws="en">Err</AUni>
+				</Abbreviation>
+				<AllowsComment
+					val="True" />
+				<AllowsFeatureStructure
+					val="False" />
+				<AllowsInstanceOf
+					val="False" />
+				<BackColor
+					val="0" />
+				<CanCreateOrphan
+					val="False" />
+				<CopyCutPastable
+					val="True" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">General category for errors of any kind.</Run>
+					</AStr>
+				</Description>
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<InstanceOfSignature
+					val="0" />
+				<IsProtected
+					val="True" />
+				<MaxDupOccur
+					val="0" />
+				<Multi
+					val="True" />
+				<Name>
+					<AUni
+						ws="en">Errors</AUni>
+				</Name>
+				<PromptUser
+					val="False" />
+				<Severity
+					val="0" />
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="CmAnnotationDefn"
+						guid="babcb400-f274-4498-92c5-77e99c90f75b">
+						<AllowsComment
+							val="True" />
+						<AllowsFeatureStructure
+							val="False" />
+						<AllowsInstanceOf
+							val="False" />
+						<BackColor
+							val="0" />
+						<CanCreateOrphan
+							val="False" />
+						<CopyCutPastable
+							val="True" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Checks for potential inconsistencies in capitalization.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="0" />
+						<HelpId>
+							<Uni>Capitalization</Uni>
+						</HelpId>
+						<Hidden
+							val="False" />
+						<InstanceOfSignature
+							val="0" />
+						<IsProtected
+							val="True" />
+						<MaxDupOccur
+							val="0" />
+						<Multi
+							val="True" />
+						<Name>
+							<AUni
+								ws="en">Capitalization</AUni>
+						</Name>
+						<PromptUser
+							val="False" />
+						<Severity
+							val="0" />
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+						<UserCanCreate
+							val="False" />
+						<ZeroWidth
+							val="False" />
+					</ownseq>
+					<ownseq
+						class="CmAnnotationDefn"
+						guid="f17a054b-d21e-4298-a1a5-0d79c4af6f0f">
+						<AllowsComment
+							val="True" />
+						<AllowsFeatureStructure
+							val="False" />
+						<AllowsInstanceOf
+							val="False" />
+						<BackColor
+							val="0" />
+						<CanCreateOrphan
+							val="False" />
+						<CopyCutPastable
+							val="True" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Checks for potential inconsistencies in chapter and verse numbers.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="0" />
+						<HelpId>
+							<Uni>Chapter_and_Verse_Numbers</Uni>
+						</HelpId>
+						<Hidden
+							val="False" />
+						<InstanceOfSignature
+							val="0" />
+						<IsProtected
+							val="True" />
+						<MaxDupOccur
+							val="0" />
+						<Multi
+							val="True" />
+						<Name>
+							<AUni
+								ws="en">Chapter and Verse Numbers</AUni>
+						</Name>
+						<PromptUser
+							val="False" />
+						<Severity
+							val="0" />
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+						<UserCanCreate
+							val="False" />
+						<ZeroWidth
+							val="False" />
+					</ownseq>
+					<ownseq
+						class="CmAnnotationDefn"
+						guid="6558a579-b9c4-4efd-8728-f994d0561293">
+						<AllowsComment
+							val="True" />
+						<AllowsFeatureStructure
+							val="False" />
+						<AllowsInstanceOf
+							val="False" />
+						<BackColor
+							val="0" />
+						<CanCreateOrphan
+							val="False" />
+						<CopyCutPastable
+							val="True" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Checks for potentially invalid characters.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="0" />
+						<HelpId>
+							<Uni>Characters</Uni>
+						</HelpId>
+						<Hidden
+							val="False" />
+						<InstanceOfSignature
+							val="0" />
+						<IsProtected
+							val="True" />
+						<MaxDupOccur
+							val="0" />
+						<Multi
+							val="True" />
+						<Name>
+							<AUni
+								ws="en">Characters</AUni>
+						</Name>
+						<PromptUser
+							val="False" />
+						<Severity
+							val="0" />
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+						<UserCanCreate
+							val="False" />
+						<ZeroWidth
+							val="False" />
+					</ownseq>
+					<ownseq
+						class="CmAnnotationDefn"
+						guid="ddccb400-f274-4498-92c5-77e99c90f75b">
+						<AllowsComment
+							val="True" />
+						<AllowsFeatureStructure
+							val="False" />
+						<AllowsInstanceOf
+							val="False" />
+						<BackColor
+							val="0" />
+						<CanCreateOrphan
+							val="False" />
+						<CopyCutPastable
+							val="True" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Checks for unmatched parentheses or other punctuation that normally occurs in pairs.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="0" />
+						<HelpId>
+							<Uni>Matching_Punctuation_Pairs</Uni>
+						</HelpId>
+						<Hidden
+							val="False" />
+						<InstanceOfSignature
+							val="0" />
+						<IsProtected
+							val="True" />
+						<MaxDupOccur
+							val="0" />
+						<Multi
+							val="True" />
+						<Name>
+							<AUni
+								ws="en">Matching Punctuation Pairs</AUni>
+						</Name>
+						<PromptUser
+							val="False" />
+						<Severity
+							val="0" />
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+						<UserCanCreate
+							val="False" />
+						<ZeroWidth
+							val="False" />
+					</ownseq>
+					<ownseq
+						class="CmAnnotationDefn"
+						guid="babcb400-f274-4498-92c5-77e99c90f75d">
+						<AllowsComment
+							val="True" />
+						<AllowsFeatureStructure
+							val="False" />
+						<AllowsInstanceOf
+							val="False" />
+						<BackColor
+							val="0" />
+						<CanCreateOrphan
+							val="False" />
+						<CopyCutPastable
+							val="True" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Checks for words with a potentially invalid mix of uppercase and lowercase letters.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="0" />
+						<HelpId>
+							<Uni>Mixed_Capitalization</Uni>
+						</HelpId>
+						<Hidden
+							val="False" />
+						<InstanceOfSignature
+							val="0" />
+						<IsProtected
+							val="True" />
+						<MaxDupOccur
+							val="0" />
+						<Multi
+							val="True" />
+						<Name>
+							<AUni
+								ws="en">Mixed Capitalization</AUni>
+						</Name>
+						<PromptUser
+							val="False" />
+						<Severity
+							val="0" />
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+						<UserCanCreate
+							val="False" />
+						<ZeroWidth
+							val="False" />
+					</ownseq>
+					<ownseq
+						class="CmAnnotationDefn"
+						guid="dcc8d4d2-13b2-46e4-8fb3-29c166d189ea">
+						<AllowsComment
+							val="True" />
+						<AllowsFeatureStructure
+							val="False" />
+						<AllowsInstanceOf
+							val="False" />
+						<BackColor
+							val="0" />
+						<CanCreateOrphan
+							val="False" />
+						<CopyCutPastable
+							val="True" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Checks for potential inconsistencies in the use of punctuation.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="0" />
+						<HelpId>
+							<Uni>Punctuation_Patterns</Uni>
+						</HelpId>
+						<Hidden
+							val="False" />
+						<InstanceOfSignature
+							val="0" />
+						<IsProtected
+							val="True" />
+						<MaxDupOccur
+							val="0" />
+						<Multi
+							val="True" />
+						<Name>
+							<AUni
+								ws="en">Punctuation Patterns</AUni>
+						</Name>
+						<PromptUser
+							val="False" />
+						<Severity
+							val="0" />
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+						<UserCanCreate
+							val="False" />
+						<ZeroWidth
+							val="False" />
+					</ownseq>
+					<ownseq
+						class="CmAnnotationDefn"
+						guid="ddccb400-f274-4498-92c5-77e99c90f75c">
+						<AllowsComment
+							val="True" />
+						<AllowsFeatureStructure
+							val="False" />
+						<AllowsInstanceOf
+							val="False" />
+						<BackColor
+							val="0" />
+						<CanCreateOrphan
+							val="False" />
+						<CopyCutPastable
+							val="True" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Checks for potential inconsistencies in the markup of quotations.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="0" />
+						<HelpId>
+							<Uni>Quotation_Marks</Uni>
+						</HelpId>
+						<Hidden
+							val="False" />
+						<InstanceOfSignature
+							val="0" />
+						<IsProtected
+							val="True" />
+						<MaxDupOccur
+							val="0" />
+						<Multi
+							val="True" />
+						<Name>
+							<AUni
+								ws="en">Quotation Marks</AUni>
+						</Name>
+						<PromptUser
+							val="False" />
+						<Severity
+							val="0" />
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+						<UserCanCreate
+							val="False" />
+						<ZeroWidth
+							val="False" />
+					</ownseq>
+					<ownseq
+						class="CmAnnotationDefn"
+						guid="72abb400-f274-4498-92c5-77e99c90f75b">
+						<AllowsComment
+							val="True" />
+						<AllowsFeatureStructure
+							val="False" />
+						<AllowsInstanceOf
+							val="False" />
+						<BackColor
+							val="0" />
+						<CanCreateOrphan
+							val="False" />
+						<CopyCutPastable
+							val="True" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Checks for repeated words.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="0" />
+						<HelpId>
+							<Uni>Repeated_Words</Uni>
+						</HelpId>
+						<Hidden
+							val="False" />
+						<InstanceOfSignature
+							val="0" />
+						<IsProtected
+							val="True" />
+						<MaxDupOccur
+							val="0" />
+						<Multi
+							val="True" />
+						<Name>
+							<AUni
+								ws="en">Repeated Words</AUni>
+						</Name>
+						<PromptUser
+							val="False" />
+						<Severity
+							val="0" />
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+						<UserCanCreate
+							val="False" />
+						<ZeroWidth
+							val="False" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+				<UserCanCreate
+					val="False" />
+				<ZeroWidth
+					val="False" />
+			</ownseq>
+		</Possibilities>
+		<PreventChoiceAboveLevel
+			val="0" />
+		<PreventDuplicates
+			val="True" />
+		<PreventNodeChoices
+			val="False" />
+		<UseExtendedFields
+			val="False" />
+		<WsSelector
+			val="-3" />
+	</CmPossibilityList>
+</AnnotationDefs>

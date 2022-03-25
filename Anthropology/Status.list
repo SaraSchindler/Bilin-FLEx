@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Status>
+	<CmPossibilityList
+		guid="d86632ba-ea5e-11de-8a58-0013722f8dec">
+		<Abbreviation>
+			<AUni
+				ws="en">Stat</AUni>
+		</Abbreviation>
+		<DateCreated
+			val="2018-8-2 16:32:6.321" />
+		<DateModified
+			val="2018-8-2 16:32:6.321" />
+		<Depth
+			val="1" />
+		<DisplayOption
+			val="0" />
+		<IsClosed
+			val="False" />
+		<IsSorted
+			val="False" />
+		<IsVernacular
+			val="False" />
+		<ItemClsid
+			val="7" />
+		<ListVersion
+			val="00000000-0000-0000-0000-000000000000" />
+		<Name>
+			<AUni
+				ws="en">Status</AUni>
+		</Name>
+		<Possibilities>
+			<ownseq
+				class="CmPossibility"
+				guid="bd80cd3e-ea5e-11de-9871-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Conf</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Confirmed</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="bd8a569c-ea5e-11de-87cc-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Dis</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Disproved</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="bd964254-ea5e-11de-8cdf-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Pend</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Pending</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="b098623a-ea5e-11de-8126-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Tent</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Tentative</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+		</Possibilities>
+		<PreventChoiceAboveLevel
+			val="0" />
+		<PreventDuplicates
+			val="False" />
+		<PreventNodeChoices
+			val="False" />
+		<UseExtendedFields
+			val="False" />
+		<WsSelector
+			val="-3" />
+	</CmPossibilityList>
+</Status>

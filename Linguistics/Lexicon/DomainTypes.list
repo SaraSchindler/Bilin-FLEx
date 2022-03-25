@@ -1,0 +1,1714 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DomainTypes>
+	<CmPossibilityList
+		guid="b0a1eb98-ea5e-11de-888e-0013722f8dec">
+		<Abbreviation>
+			<AUni
+				ws="en">AcDom</AUni>
+		</Abbreviation>
+		<DateCreated
+			val="2018-8-2 16:32:6.267" />
+		<DateModified
+			val="2018-8-2 16:32:6.267" />
+		<Depth
+			val="127" />
+		<DisplayOption
+			val="0" />
+		<IsClosed
+			val="False" />
+		<IsSorted
+			val="True" />
+		<IsVernacular
+			val="False" />
+		<ItemClsid
+			val="7" />
+		<ListVersion
+			val="00000000-0000-0000-0000-000000000000" />
+		<Name>
+			<AUni
+				ws="en">Academic Domains</AUni>
+		</Name>
+		<Possibilities>
+			<ownseq
+				class="CmPossibility"
+				guid="b0add746-ea5e-11de-8c5c-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Anat</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">anatomy</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="b0b9c2fe-ea5e-11de-8fed-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Anthro</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">anthropology</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="CmPossibility"
+						guid="b0c5aeac-ea5e-11de-9463-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">Cult anthro</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">cultural anthropology</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<SubPossibilities>
+							<ownseq
+								class="CmPossibility"
+								guid="b0cf380a-ea5e-11de-898a-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">crclt adapt</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">cross cultural adaptation</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+						</SubPossibilities>
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="b0db23c2-ea5e-11de-9597-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Artintel</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">artificial intelligence</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="b0e70f70-ea5e-11de-9907-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Comp sci</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">computer science</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="b0f098ce-ea5e-11de-84f4-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Ed</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">education</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="b0fc847c-ea5e-11de-85e8-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Graph</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">graphology</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="b1087034-ea5e-11de-940d-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">lang lrn</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">language learning</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="b111f992-ea5e-11de-98c0-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Leg</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">legal</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="b11de540-ea5e-11de-885c-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Ling</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">linguistics</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="CmPossibility"
+						guid="b129d0f8-ea5e-11de-89f6-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">App ling</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">applied linguistics</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="b1335a56-ea5e-11de-89ea-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">Comp ling</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">comparative linguistics</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="b13f4604-ea5e-11de-8579-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">Gramm</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">grammar</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<SubPossibilities>
+							<ownseq
+								class="CmPossibility"
+								guid="b14b31bc-ea5e-11de-8e9e-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">Disc</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">discourse</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="b154bb10-ea5e-11de-8787-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">Morph</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">morphology</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="b160a6c8-ea5e-11de-96ff-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">Synt</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">syntax</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+						</SubPossibilities>
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="b16c9276-ea5e-11de-9805-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">Hist ling</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">historical linguistics</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="b1787e2e-ea5e-11de-89d9-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">Lexicog</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">lexicography</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="b182078c-ea5e-11de-990d-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">Lexicol</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">lexicology</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="b18df33a-ea5e-11de-94f0-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">Phon</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">phonetics</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<SubPossibilities>
+							<ownseq
+								class="CmPossibility"
+								guid="b199def2-ea5e-11de-8f70-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">Acous phon</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">acoustic phonetics</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="b1a36846-ea5e-11de-9137-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">Art phon</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">articulatory phonetics</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+						</SubPossibilities>
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="b1af53fe-ea5e-11de-8ec4-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">Phono</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">phonology</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<SubPossibilities>
+							<ownseq
+								class="CmPossibility"
+								guid="b1bb3fac-ea5e-11de-81e4-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">Autoseg phono</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">autosegmental phonology</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="b1c4c90a-ea5e-11de-902c-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">Gen phono</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">generative phonology</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="b1d0b4c2-ea5e-11de-862b-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">Lex phono</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">lexical phonology</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="b1dca070-ea5e-11de-8613-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">Met phono</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">metrical phonology</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="b1e629ce-ea5e-11de-8550-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">Non-lin phono</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">non-linear phonology</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="b1f21586-ea5e-11de-8120-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">Phonm</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">phonemics</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+						</SubPossibilities>
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="b1fe0134-ea5e-11de-8756-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">Prag</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">pragmatics</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="b2078a92-ea5e-11de-9a1a-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">Sem</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">semantics</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="b2137640-ea5e-11de-8742-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">Semiot</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">semiotics</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="b21f61f8-ea5e-11de-907d-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Lit</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">literacy</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="CmPossibility"
+						guid="b228eb56-ea5e-11de-9e54-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">newitem</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">newitem</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="b234d704-ea5e-11de-9211-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Lit</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">literature</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="CmPossibility"
+						guid="b240c2bc-ea5e-11de-9d83-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">Poet</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">poetry</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="b24a4c10-ea5e-11de-9bcb-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">Rhet</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">rhetoric</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="b25637c8-ea5e-11de-98ce-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">styl</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">stylistics</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="b2622376-ea5e-11de-8274-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Log</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">logic</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="b26bacd4-ea5e-11de-8beb-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Math</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">mathematics</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="b277988c-ea5e-11de-957d-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Med</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">media</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="b283843a-ea5e-11de-9232-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Medi</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">medicine</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="b28d0d98-ea5e-11de-8bcb-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Phil</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">philosophy</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="b298f950-ea5e-11de-8179-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Psycholing</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">psycholinguistics</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="b2a4e4fe-ea5e-11de-96a2-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Psycho</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">psychology</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="b2b0d0b6-ea5e-11de-8b58-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Rel</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">religion</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="CmPossibility"
+						guid="b2ba5a0a-ea5e-11de-825a-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">Rit</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">ritual</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="b2c645c2-ea5e-11de-8a97-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Socio ling</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">sociolinguistics</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="CmPossibility"
+						guid="b2d23170-ea5e-11de-83d9-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">App ling</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">applied linguistics</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="b2dbbace-ea5e-11de-9923-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">Comp ling</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">comparative linguistics</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="b2e7a686-ea5e-11de-92ba-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">Hist ling</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">historical linguistics</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="b2f39234-ea5e-11de-9345-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">Surv</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">survey</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="b2fd1b92-ea5e-11de-8fa9-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Socio</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">sociology</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="b3090740-ea5e-11de-901c-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Trans</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">translation</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+		</Possibilities>
+		<PreventChoiceAboveLevel
+			val="0" />
+		<PreventDuplicates
+			val="False" />
+		<PreventNodeChoices
+			val="False" />
+		<UseExtendedFields
+			val="False" />
+		<WsSelector
+			val="-3" />
+	</CmPossibilityList>
+</DomainTypes>

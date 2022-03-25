@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProperty xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Property>
+    <name>expandmO/17BlAWUaXH10BGW5B9w==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandYFLlUXTEQke65vGaFE9SwQ==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>LinkSetupInfo</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>InterlinearTab</name>
+    <value xsi:type="xsd:string" />
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expand1LULYEEGzkKDviflivv75g==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandn+71Rr7uVUSIiqgj9OWo4g==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expand0N61VFelQUiZlQw5H6SJSw==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandrZEtW2Tiqk68dcrXrVc9vw==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandDrlqzFQHp0+jgcAQJYKs8A==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>HomographConfiguration</name>
+    <value xsi:type="xsd:string" />
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandUmxsy2EmZE2IHZKUtr9bqQ==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandfbtKNu/ESUSJ/6cdDZggSg==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>RecordListWidthGlobal</name>
+    <value xsi:type="xsd:int">200</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expand+b3FJ5wAt0iIa52C/9uIdA==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>UpdateLexiconIfPossible</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandQVKGmP7HzkaSxM2hVb50kw==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>RemoveAnalyses</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expand5fnOY3LL6EaINC2Rp+BPVA==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>PreviousToolbarVersion</name>
+    <value xsi:type="xsd:string">1</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>RecordListLabel</name>
+    <value xsi:type="xsd:string">Record List</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>masterCatListDlgSize</name>
+    <value xsi:type="Size">
+      <Width>586</Width>
+      <Height>411</Height>
+    </value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandL1R4Ucp+Bku0hCAYwtM2lw==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandWH/NUlpY80+WSjaQkFKUeQ==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandSIRnB6E2XEmAkh0+wuOGMw==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>UseVernSpellingDictionary</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>LinkScriptureBooksWanted</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expand+ZnAF6Z2t0q8QDL+ojSRqg==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expand9+SxO7KZBUqhHaFoljg0cQ==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandTTsn2UZlIESzKSOASiu52g==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandKo2N50C7mUOMdmzLEtA/pQ==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandsFqJk0McwkKuvqXci45dMQ==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>IgnoreStatusPanel</name>
+    <value xsi:type="xsd:boolean">false</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandaOSKfxB2xUqXpPWLer5SqA==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandYb+1WsV1tEeXMfJlTwu/iQ==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>ShowSidebar</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandkk/kTproc0uyAw03zDU90Q==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>MainContentLabel</name>
+    <value xsi:type="xsd:string">Main Content</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expand1w0pzfUFKUOsToUYgH3u7w==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expand60Lk4PsNbUCEdMqBCUKw1Q==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>entries.normalEdit.DataTree-SimpleListChooser-windowState</name>
+    <value xsi:type="FormWindowState">Normal</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expanda/nf7WBzW0mUdMjIOdRkZA==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expanduSrVycj3QESRyp3kETTpAw==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandbzBP0UZJzEyZuwU8P6sC2A==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expand8r/pYPdTqUKwHBlfKauGHw==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandz5neXEGcgEC3g2gZ0Rp7yQ==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandv5nDljbcO0GWDh7fCHv+5w==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandqJbnAplfhkqaHZQ1rkM9AQ==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandEAvKDjhLO0ydQySc+p43hg==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>entries.normalEdit.DataTree-SimpleListChooser-windowLocation</name>
+    <value xsi:type="Point">
+      <X>78</X>
+      <Y>78</Y>
+    </value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>masterCatListDlgLocation</name>
+    <value xsi:type="Point">
+      <X>78</X>
+      <Y>78</Y>
+    </value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandMHfl0YeZIkO71KRlF433OA==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandxrJQIYBWWkiRL67533SBlQ==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expand2s3lvr3BG0C9nZqDls6a8Q==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>AllButSidebarLabel</name>
+    <value xsi:type="xsd:string">Record List &amp; MainContent</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>AllowShowNormalFields</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandVLeLa2tdFEOrr6yZl7tt7Q==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandYDfn7L29Eka0n4+bgajTHQ==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandiSEJuwJ08UWp7u8xN+NGAw==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandR2XtkEr68UKupcRtMZQNYA==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandSqXAaboW00GeDklo2qYYjQ==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandXwO7GWAoBUuSwhSvI6sVBQ==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>AllowInsertLinkToFile</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>SidebarLabel</name>
+    <value xsi:type="xsd:string">Sidebar</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>entries.normalEdit.DataTree-SliceSplitterBaseDistance</name>
+    <value xsi:type="xsd:int">150</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandeR2NuDC9G0WbcbibR5bb6g==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandKzwsxLWoMECzIygNDfm8Qg==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandbvSyZmsBHk2tZl3QIbkcOQ==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>SidebarWidthGlobal</name>
+    <value xsi:type="xsd:int">140</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expanda21hBy4mJUyXZxXYKoylPw==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandPeorc0iw8E2CtWaAa5IcBQ==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expand9Le51jTsM0CciWa4EeDwdQ==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandujzEAd4byUShSAAFQw/+Ow==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandvVglzFAXMkO8LU02eC/hsQ==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandA3burFoSbkqJ7g+jqiCGGw==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>ShowRecordList</name>
+    <value xsi:type="xsd:boolean">false</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>entries.normalEdit.DataTree-SimpleListChooser-windowSize</name>
+    <value xsi:type="Size">
+      <Width>331</Width>
+      <Height>393</Height>
+    </value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expand8OAFMQNrqEakIVEF2lTXBw==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandaciAFpwd4UGlKoGZSlzPcQ==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expand2GBT0Q6vkEmLOw1XFDVWuw==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandfMaeABUipkaJXwNiSLpTeQ==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandvessDU03kUmzOX5AUDbD6A==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expand2Na8pR/e8kiMMxOQkXIYTw==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandJxLHfm56OE69uBVbtZExHg==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>DictionaryPublicationLayout</name>
+    <value xsi:type="xsd:string">C:\Program Files\SIL\FieldWorks 9\Language Explorer\DefaultConfigurations\Dictionary\Root.fwdictconfig</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandri5N6MXFZk28os/Jjb6wtg==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>ReversalIndexGuid</name>
+    <value xsi:type="xsd:string">37fd1949-6704-4e8f-b91b-a88529555cba</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>windowState</name>
+    <value xsi:type="FormWindowState">Maximized</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+</ArrayOfProperty>

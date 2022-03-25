@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lexicon>
+	<LexEntry
+		guid="acee7603-125a-4a6e-89ee-0fa3aa20861b">
+		<DateCreated
+			val="2022-3-11 11:15:25.319" />
+		<DateModified
+			val="2022-3-11 11:15:25.319" />
+		<DoNotUseForParsing
+			val="False" />
+		<HomographNumber
+			val="0" />
+		<LexemeForm>
+			<MoAffixAllomorph
+				guid="e78d8d2a-bb40-4399-8c76-6ccb12d03fa5">
+				<Form>
+					<AUni
+						ws="byn">ma</AUni>
+				</Form>
+				<IsAbstract
+					val="False" />
+				<MorphType>
+					<objsur
+						guid="d7f713dd-e8cf-11d3-9764-00c04f186933"
+						t="r" />
+				</MorphType>
+			</MoAffixAllomorph>
+		</LexemeForm>
+		<MorphoSyntaxAnalyses>
+			<MoUnclassifiedAffixMsa
+				guid="740b2bcc-48d9-4bcd-81d9-c766c76a4744" />
+		</MorphoSyntaxAnalyses>
+		<Senses>
+			<ownseq
+				class="LexSense"
+				guid="07678448-36a1-495c-8092-1d3ec2e38633">
+				<Gloss>
+					<AUni
+						ws="en">Q</AUni>
+				</Gloss>
+				<MorphoSyntaxAnalysis>
+					<objsur
+						guid="740b2bcc-48d9-4bcd-81d9-c766c76a4744"
+						t="r" />
+				</MorphoSyntaxAnalysis>
+			</ownseq>
+		</Senses>
+	</LexEntry>
+</Lexicon>

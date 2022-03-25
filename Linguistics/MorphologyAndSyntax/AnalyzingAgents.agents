@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AnalyzingAgents>
+	<CmAgent
+		guid="1257a971-fcef-4f06-a5e2-c289de5aaf72">
+		<Approves>
+			<CmAgentEvaluation
+				guid="fe84db44-36f3-4d77-b7bd-4b0f5e6200f1" />
+		</Approves>
+		<Disapproves>
+			<CmAgentEvaluation
+				guid="68cd31f9-c1f3-46ac-86be-a18e3b31edfb" />
+		</Disapproves>
+		<Human
+			val="False" />
+		<Name>
+			<AUni
+				ws="en">M3Parser</AUni>
+		</Name>
+		<Version>
+			<Uni>Normal</Uni>
+		</Version>
+	</CmAgent>
+	<CmAgent
+		guid="5093d7d7-4f18-4aad-8c86-88389476df15">
+		<Approves>
+			<CmAgentEvaluation
+				guid="b35f4cb9-5caa-4219-8ea6-4b191e71b06d" />
+		</Approves>
+		<Disapproves>
+			<CmAgentEvaluation
+				guid="70c0b09c-1699-4019-bee2-c02d6d95f7d9" />
+		</Disapproves>
+		<Human
+			val="False" />
+		<Name>
+			<AUni
+				ws="en">HCParser</AUni>
+		</Name>
+		<Version>
+			<Uni>Normal</Uni>
+		</Version>
+	</CmAgent>
+	<CmAgent
+		guid="67e9b8bf-c312-458e-89c3-6e9326e48aa0">
+		<Approves>
+			<CmAgentEvaluation
+				guid="41581e3a-7ed3-41ac-94c7-6e91dbcc108b" />
+		</Approves>
+		<Disapproves>
+			<CmAgentEvaluation
+				guid="ce8e565b-45f4-4b09-b3d3-5b4d064eff50" />
+		</Disapproves>
+		<Human
+			val="False" />
+		<Name>
+			<AUni
+				ws="en">Computer</AUni>
+		</Name>
+	</CmAgent>
+	<CmAgent
+		guid="9303883a-ad5c-4ccf-97a5-4add391f8dcb">
+		<Approves>
+			<CmAgentEvaluation
+				guid="8caa11bb-cac4-4836-a081-1666245106b9" />
+		</Approves>
+		<Disapproves>
+			<CmAgentEvaluation
+				guid="70a39b4b-662d-47c5-a9de-e7b5988b7f55" />
+		</Disapproves>
+		<Human
+			val="True" />
+		<Name>
+			<AUni
+				ws="en">default user</AUni>
+		</Name>
+	</CmAgent>
+</AnalyzingAgents>

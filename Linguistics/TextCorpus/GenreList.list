@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenreList>
+	<CmPossibilityList
+		guid="c06b099c-ea5e-11de-890c-0013722f8dec">
+		<Abbreviation>
+			<AUni
+				ws="en">gnrs</AUni>
+		</Abbreviation>
+		<DateCreated
+			val="2018-8-2 16:32:6.326" />
+		<DateModified
+			val="2018-8-2 16:32:6.326" />
+		<Depth
+			val="127" />
+		<Description>
+			<AStr
+				ws="en">
+				<Run
+					ws="en">This list holds genre by which interlinear texts can be classified.</Run>
+			</AStr>
+		</Description>
+		<DisplayOption
+			val="0" />
+		<IsClosed
+			val="False" />
+		<IsSorted
+			val="True" />
+		<IsVernacular
+			val="False" />
+		<ItemClsid
+			val="7" />
+		<ListVersion
+			val="00000000-0000-0000-0000-000000000000" />
+		<Name>
+			<AUni
+				ws="en">Genres</AUni>
+		</Name>
+		<Possibilities>
+			<ownseq
+				class="CmPossibility"
+				guid="c076f554-ea5e-11de-9793-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">mnlg</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">A text with a single participant, typically a narrator addressing an audience</Run>
+					</AStr>
+				</Description>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Monologue</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="CmPossibility"
+						guid="c082e102-ea5e-11de-92f2-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">nar</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">An account of events, a text that describes or projects a contingent succession of actions</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Narrative</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<SubPossibilities>
+							<ownseq
+								class="CmPossibility"
+								guid="c08c6a60-ea5e-11de-9483-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">his</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<Description>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">An account of real events</Run>
+									</AStr>
+								</Description>
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">History</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c0985618-ea5e-11de-831e-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">fict</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<Description>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">An account of invented events</Run>
+									</AStr>
+								</Description>
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Fiction</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c0a441c6-ea5e-11de-9275-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">tr. nar</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<Description>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">A traditional account of events of unknown historicity</Run>
+									</AStr>
+								</Description>
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Traditional Narrative</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c0adcb24-ea5e-11de-8861-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">proph</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<Description>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">An account of events that are projected to happen at a later time, typically involving a supernatural agency</Run>
+									</AStr>
+								</Description>
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Prophecy</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+						</SubPossibilities>
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c0b9b6d2-ea5e-11de-8619-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">proc</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">A text that describes or explains a process</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Procedure</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<SubPossibilities>
+							<ownseq
+								class="CmPossibility"
+								guid="c0c5a28a-ea5e-11de-906a-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">desc. proc</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<Description>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Describes how something was done</Run>
+									</AStr>
+								</Description>
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Descriptive Procedure</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c0cf2be8-ea5e-11de-804e-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">pres. proc</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<Description>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Gives instructions about how to do something</Run>
+									</AStr>
+								</Description>
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Prescriptive Procedure</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+						</SubPossibilities>
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c0db1796-ea5e-11de-910f-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">beh. txt</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">A text that motivates or describes behavior without a framework of contingent succession</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Behavioral Text</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<SubPossibilities>
+							<ownseq
+								class="CmPossibility"
+								guid="c0e7034e-ea5e-11de-9cb4-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">hor. txt</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<Description>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">A text intended to motivate the audience to do something or to act or to believe in a particular way; a.k.a. Motivational Text</Run>
+									</AStr>
+								</Description>
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Hortatory Text</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c0f08cac-ea5e-11de-9107-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">norm. txt</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<Description>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">A text intended to express the norms of a society for the purpose of motivating someone to conform to those norms</Run>
+									</AStr>
+								</Description>
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Normative Text</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c0fc785a-ea5e-11de-8bdb-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">pro. txt</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<Description>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">A text in which the originator promises to do something or to act or to believe in a particular way</Run>
+									</AStr>
+								</Description>
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Promissory Text</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c1086412-ea5e-11de-88a0-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">beh. desc</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<Description>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">A text, such as a Eulogy, that describes the accomplishments of a person without a contingent succession of actions</Run>
+									</AStr>
+								</Description>
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Behavioral Description</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+						</SubPossibilities>
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c1144fc0-ea5e-11de-97be-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">expo</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">A text that explains something other than a behavior, a process or a succession of events; typically it explains facts or ideas</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Exposition</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<SubPossibilities>
+							<ownseq
+								class="CmPossibility"
+								guid="c11dd91e-ea5e-11de-9f41-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">proj</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<Description>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">A text dealing with projected facts or planned status (not a proposal for action, which would be Hortatory; not focusing on human or divine agency, which would be Prophecy)</Run>
+									</AStr>
+								</Description>
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Projection</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c129c4cc-ea5e-11de-8f6c-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">desc. expo</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<Description>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Exposition that describes an object, location or situation in static terms</Run>
+									</AStr>
+								</Description>
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Descriptive Exposition</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c135b084-ea5e-11de-8702-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">did. expo</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<Description>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Exposition specifically intended for teaching another person about a body of facts</Run>
+									</AStr>
+								</Description>
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Didactic Exposition</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+						</SubPossibilities>
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="c13f39e2-ea5e-11de-9645-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">dia</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Literal speech between individuals or quoted text that uses quotation formulas (typically using the verb 'to say')</Run>
+					</AStr>
+				</Description>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Dialogue</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="CmPossibility"
+						guid="c14b2590-ea5e-11de-85fc-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">conv</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Dialogue involving mutual cooperation between the speakers</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Conversation</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c1571148-ea5e-11de-8fe4-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">verb. confl</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Dialogue in which the speakers resist mutual resolution of one or more propositions</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Verbal Conflict</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c1609a9c-ea5e-11de-8247-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">neg</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Dialogue in which a speaker seeks to obtain a benefit from the other speaker</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Negotiation</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c16c8654-ea5e-11de-867b-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">dram</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Acted out speech or quoted text that does not use quotation formulas</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Drama</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="c1787202-ea5e-11de-95b1-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">wd. lst</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">A list of words used for language research or documentation</Run>
+					</AStr>
+				</Description>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Word List</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="CmPossibility"
+						guid="c181fb60-ea5e-11de-9e08-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">para</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">A list of well-formed words, typically arranged according to inflection</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Paradigm</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c18de718-ea5e-11de-937a-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">ill. wds</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">A list of words that are not well-formed in the language, e.g. an anti-paradigm or list of common misspellings</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Ill-formed Words</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="c199d2c6-ea5e-11de-9810-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">met. cat</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Genre according to metrical form (versus content)</Run>
+					</AStr>
+				</Description>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Metrical Category</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="CmPossibility"
+						guid="d686fc68-ea5e-11de-8f7f-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">pros</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Non-metrical arrangement of the text, typically using the grammar of ordinary speech</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Prose</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c1a35c24-ea5e-11de-8988-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">poet</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Metrical arrangement of the text, typically employing rules for rhyme and rhythm</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Poetry</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+		</Possibilities>
+		<PreventChoiceAboveLevel
+			val="0" />
+		<PreventDuplicates
+			val="False" />
+		<PreventNodeChoices
+			val="False" />
+		<UseExtendedFields
+			val="False" />
+		<WsSelector
+			val="-3" />
+	</CmPossibilityList>
+</GenreList>

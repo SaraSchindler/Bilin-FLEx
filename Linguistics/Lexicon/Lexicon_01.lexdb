@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lexicon>
+	<header>
+		<LexDb
+			guid="af26d792-ea5e-11de-8f7e-0013722f8dec">
+			<ComplexEntryTypes />
+			<DateCreated
+				val="2022-3-11 10:30:2.741" />
+			<DateModified
+				val="2022-3-11 10:30:2.741" />
+			<DialectLabels />
+			<DomainTypes />
+			<ExtendedNoteTypes />
+			<IsBodyInSeparateSubentry
+				val="False" />
+			<IsHeadwordCitationForm
+				val="False" />
+			<Languages />
+			<MorphTypes />
+			<Name>
+				<AUni
+					ws="en">Dictionary</AUni>
+			</Name>
+			<PublicationTypes />
+			<References />
+			<Resources>
+				<CmResource
+					guid="73732cc2-7053-49bf-ac11-1ea942f2715c">
+					<Name>
+						<Uni>FlexStyles</Uni>
+					</Name>
+					<Version
+						val="e5238df8-6fcb-4350-9c85-db9c9726381b" />
+				</CmResource>
+			</Resources>
+			<ReversalIndexes />
+			<SenseTypes />
+			<UsageTypes />
+			<VariantEntryTypes />
+		</LexDb>
+	</header>
+	<LexEntry
+		guid="54b5ded0-a557-4841-9995-0c391fa4894b">
+		<DateCreated
+			val="2022-3-11 10:47:4.625" />
+		<DateModified
+			val="2022-3-11 10:47:4.625" />
+		<DoNotUseForParsing
+			val="False" />
+		<HomographNumber
+			val="0" />
+		<LexemeForm>
+			<MoStemAllomorph
+				guid="90ed6547-fa4a-42f1-aea5-c46d31940d60">
+				<Form>
+					<AUni
+						ws="byn">səxa</AUni>
+				</Form>
+				<IsAbstract
+					val="False" />
+				<MorphType>
+					<objsur
+						guid="d7f713e8-e8cf-11d3-9764-00c04f186933"
+						t="r" />
+				</MorphType>
+			</MoStemAllomorph>
+		</LexemeForm>
+		<MorphoSyntaxAnalyses>
+			<MoStemMsa
+				guid="6a3d1d9b-d6fa-40c7-893d-d772e59330b7">
+				<PartOfSpeech>
+					<objsur
+						guid="a8e41fd3-e343-4c7c-aa05-01ea3dd5cfb5"
+						t="r" />
+				</PartOfSpeech>
+			</MoStemMsa>
+		</MorphoSyntaxAnalyses>
+		<Senses>
+			<ownseq
+				class="LexSense"
+				guid="5ab5bf61-75c5-47b4-9731-f2654f0bbf89">
+				<Gloss>
+					<AUni
+						ws="en">meat</AUni>
+				</Gloss>
+				<MorphoSyntaxAnalysis>
+					<objsur
+						guid="6a3d1d9b-d6fa-40c7-893d-d772e59330b7"
+						t="r" />
+				</MorphoSyntaxAnalysis>
+			</ownseq>
+		</Senses>
+	</LexEntry>
+	<LexEntry
+		guid="600bb5d4-0641-42ce-83be-27e58afbfbe6">
+		<DateCreated
+			val="2022-3-11 11:4:2.127" />
+		<DateModified
+			val="2022-3-11 11:4:2.127" />
+		<DoNotUseForParsing
+			val="False" />
+		<HomographNumber
+			val="0" />
+		<LexemeForm>
+			<MoStemAllomorph
+				guid="19bb035f-2860-4b05-92c2-14af23ab1505">
+				<Form>
+					<AUni
+						ws="byn">ʔəmri</AUni>
+				</Form>
+				<IsAbstract
+					val="False" />
+				<MorphType>
+					<objsur
+						guid="d7f713e8-e8cf-11d3-9764-00c04f186933"
+						t="r" />
+				</MorphType>
+			</MoStemAllomorph>
+		</LexemeForm>
+		<MorphoSyntaxAnalyses>
+			<MoStemMsa
+				guid="fc1723e7-7303-4919-ba3b-2288cd9c546a" />
+		</MorphoSyntaxAnalyses>
+		<Senses>
+			<ownseq
+				class="LexSense"
+				guid="27c5bdf9-009c-48b7-886b-9d82ffdb8874">
+				<Gloss>
+					<AUni
+						ws="en">tomorrow</AUni>
+				</Gloss>
+				<MorphoSyntaxAnalysis>
+					<objsur
+						guid="fc1723e7-7303-4919-ba3b-2288cd9c546a"
+						t="r" />
+				</MorphoSyntaxAnalysis>
+			</ownseq>
+		</Senses>
+	</LexEntry>
+</Lexicon>

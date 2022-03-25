@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<People>
+	<CmPossibilityList
+		guid="d72de032-ea5e-11de-84f3-0013722f8dec">
+		<Abbreviation>
+			<AUni
+				ws="en">Part</AUni>
+		</Abbreviation>
+		<DateCreated
+			val="2018-8-2 16:32:6.322" />
+		<DateModified
+			val="2018-8-2 16:32:6.322" />
+		<Depth
+			val="1" />
+		<DisplayOption
+			val="0" />
+		<IsClosed
+			val="False" />
+		<IsSorted
+			val="True" />
+		<IsVernacular
+			val="False" />
+		<ItemClsid
+			val="13" />
+		<ListVersion
+			val="00000000-0000-0000-0000-000000000000" />
+		<Name>
+			<AUni
+				ws="en">People</AUni>
+		</Name>
+		<Possibilities>
+			<ownseq
+				class="CmPerson"
+				guid="5d543e4f-50d7-41fe-93a7-cf851c1d229e">
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<DateOfBirth
+					val="0" />
+				<DateOfDeath
+					val="0" />
+				<ForeColor
+					val="0" />
+				<Gender
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="True" />
+				<IsResearcher
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Default User</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+		</Possibilities>
+		<PreventChoiceAboveLevel
+			val="0" />
+		<PreventDuplicates
+			val="False" />
+		<PreventNodeChoices
+			val="False" />
+		<UseExtendedFields
+			val="True" />
+		<WsSelector
+			val="-6" />
+	</CmPossibilityList>
+</People>

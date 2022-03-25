@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lexicon>
+	<LexEntry
+		guid="63cef9e5-cb72-46e8-8834-2d91a7e04f54">
+		<DateCreated
+			val="2022-3-11 10:41:9.709" />
+		<DateModified
+			val="2022-3-11 10:41:9.709" />
+		<DoNotUseForParsing
+			val="False" />
+		<HomographNumber
+			val="0" />
+		<LexemeForm>
+			<MoStemAllomorph
+				guid="51e55260-c474-4742-bae6-f19a144f52c1">
+				<Form>
+					<AUni
+						ws="byn">ni</AUni>
+				</Form>
+				<IsAbstract
+					val="False" />
+				<MorphType>
+					<objsur
+						guid="d7f713e8-e8cf-11d3-9764-00c04f186933"
+						t="r" />
+				</MorphType>
+			</MoStemAllomorph>
+		</LexemeForm>
+		<MorphoSyntaxAnalyses>
+			<MoStemMsa
+				guid="a1154cf6-b173-43e7-b955-abb26b0f007c">
+				<PartOfSpeech>
+					<objsur
+						guid="a4fc78d6-7591-4fb3-8edd-82f10ae3739d"
+						t="r" />
+				</PartOfSpeech>
+			</MoStemMsa>
+		</MorphoSyntaxAnalyses>
+		<Senses>
+			<ownseq
+				class="LexSense"
+				guid="0eca0b10-4b38-4c3b-9d43-249cfa9e3786">
+				<Gloss>
+					<AUni
+						ws="en">he</AUni>
+				</Gloss>
+				<MorphoSyntaxAnalysis>
+					<objsur
+						guid="a1154cf6-b173-43e7-b955-abb26b0f007c"
+						t="r" />
+				</MorphoSyntaxAnalysis>
+			</ownseq>
+		</Senses>
+	</LexEntry>
+</Lexicon>

@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VariantEntryTypes>
+	<CmPossibilityList
+		guid="bb372467-5230-43ef-9cc7-4d40b053fb94">
+		<Abbreviation>
+			<AUni
+				ws="en">EntTyp</AUni>
+		</Abbreviation>
+		<DateCreated
+			val="2018-8-2 16:32:6.268" />
+		<DateModified
+			val="2018-8-2 16:32:6.268" />
+		<Depth
+			val="127" />
+		<DisplayOption
+			val="0" />
+		<IsClosed
+			val="False" />
+		<IsSorted
+			val="False" />
+		<IsVernacular
+			val="False" />
+		<ItemClsid
+			val="5118" />
+		<ListVersion
+			val="00000000-0000-0000-0000-000000000000" />
+		<Name>
+			<AUni
+				ws="en">Variant Types</AUni>
+		</Name>
+		<Possibilities>
+			<ownseq
+				class="LexEntryType"
+				guid="3942addb-99fd-43e9-ab7d-99025ceb0d4e">
+				<Abbreviation>
+					<AUni
+						ws="en">unspec. var.</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.555" />
+				<DateModified
+					val="2022-3-11 10:30:4.555" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">A variant form that hasn't been labeled as a specific kind of variant.</Run>
+					</AStr>
+				</Description>
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="True" />
+				<Name>
+					<AUni
+						ws="en">Unspecified Variant</AUni>
+				</Name>
+				<ReverseAbbr>
+					<AUni
+						ws="en">unspec. var. of</AUni>
+				</ReverseAbbr>
+				<ReverseName>
+					<AUni
+						ws="en">Unspecified Variant of</AUni>
+				</ReverseName>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="LexEntryType"
+				guid="024b62c9-93b3-41a0-ab19-587a0030219a">
+				<Abbreviation>
+					<AUni
+						ws="en">dial. var.</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">A variant of a lexeme, characteristically used by a specific demographic subset of the language.</Run>
+					</AStr>
+				</Description>
+				<Discussion>
+					<StText
+						guid="b6c773e4-ea5e-11de-9774-0013722f8dec">
+						<DateModified
+							val="2022-3-11 10:30:4.524" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="b6d35f92-ea5e-11de-9aef-0013722f8dec">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="True" />
+				<Name>
+					<AUni
+						ws="en">Dialectal Variant</AUni>
+				</Name>
+				<ReverseAbbr>
+					<AUni
+						ws="en">dial. var. of</AUni>
+				</ReverseAbbr>
+				<ReverseName>
+					<AUni
+						ws="en">Dialectal Variant of</AUni>
+				</ReverseName>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="LexEntryType"
+				guid="4343b1ef-b54f-4fa4-9998-271319a6d74c">
+				<Abbreviation>
+					<AUni
+						ws="en">fr. var.</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.555" />
+				<DateModified
+					val="2022-3-11 10:30:4.555" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">If two forms are free variants, the same speaker might use either one in the same setting. The more frequent form would be considered the basic form.</Run>
+					</AStr>
+				</Description>
+				<Discussion>
+					<StText
+						guid="b6df4b4a-ea5e-11de-8285-0013722f8dec">
+						<DateModified
+							val="2022-3-11 10:30:4.524" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="b6eb36f8-ea5e-11de-95d2-0013722f8dec">
+								<Contents>
+									<Str>
+										<Run
+											ws="en">Linguists generally assume that all differences in form are motivated in some way at some level. If two variants were truly free, there would be no factors that condition the choice of either variant and the choice would be totally random. However in many cases one variant is more common than the other, indicating that there is some conditioning factor at work. The apparent lack of conditioning factors may be due to a historical change that is in process (with the result that the older rule is being inconsistently applied), competing factors that mask each other, or such complex factors that the linguist is unable to sort out the conditioning. The result is that the two forms may appear to be in free variation, but may actually be conditioned. When no conditioning factor can be discerned, the general practice in linguistics is to label the forms Free Variants.</Run>
+									</Str>
+								</Contents>
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="True" />
+				<Name>
+					<AUni
+						ws="en">Free Variant</AUni>
+				</Name>
+				<ReverseAbbr>
+					<AUni
+						ws="en">fr. var. of</AUni>
+				</ReverseAbbr>
+				<ReverseName>
+					<AUni
+						ws="en">Free Variant of</AUni>
+				</ReverseName>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="LexEntryInflType"
+				guid="01d4fbc1-3b0c-4f52-9163-7ab0d4f4711c">
+				<Abbreviation>
+					<AUni
+						ws="en">irreg. infl.</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.555" />
+				<DateModified
+					val="2022-3-11 10:30:4.555" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">An Irregularly Inflected Form is an inflected form of the lexeme that is different from what you would expect from the normal rules of the grammar.</Run>
+					</AStr>
+				</Description>
+				<Discussion>
+					<StText
+						guid="b6f4c056-ea5e-11de-8a9c-0013722f8dec">
+						<DateModified
+							val="2022-3-11 10:30:4.524" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="b700ac0e-ea5e-11de-8890-0013722f8dec">
+								<Contents>
+									<Str>
+										<Run
+											ws="en">The English verb 'hit' is irregular. From the normal rules of grammar we would expect the past tense to be 'hitted', since the normal way to form the past tense is to add the -ed suffix. Instead the correct past tense form is 'hit', as in, "He hit me yesterday." Likewise the past tense of 'break' is 'broke' rather than 'breaked'. So 'hit' (past) and 'broke' are irregularly inflected forms. In the same way the plural form of 'fish' is 'fish' rather than 'fishes', as in "There are many fish in the lake." The plural of 'man' is 'men', not 'mans'. So 'fish' (plural) and 'men' are irregularly inflected forms.</Run>
+									</Str>
+								</Contents>
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+							<ownseq
+								class="StTxtPara"
+								guid="b70c97bc-ea5e-11de-803e-0013722f8dec">
+								<Contents>
+									<Str>
+										<Run
+											ws="en">Many dictionaries indicate irregularly inflected forms in the dictionary entry for the lexeme. Generally a minor entry for the irregularly inflected form is also included, especially in dictionaries for language learners who would not know where to find the entry for the basic (uninflected) form of the lexeme.</Run>
+									</Str>
+								</Contents>
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="0" />
+				<GlossAppend>
+					<AUni
+						ws="en">.irr.infl</AUni>
+				</GlossAppend>
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="True" />
+				<Name>
+					<AUni
+						ws="en">Irregularly Inflected Form</AUni>
+				</Name>
+				<ReverseAbbr>
+					<AUni
+						ws="en">irreg. infl. of</AUni>
+				</ReverseAbbr>
+				<ReverseName>
+					<AUni
+						ws="en">Irregularly Inflected Form of</AUni>
+				</ReverseName>
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="LexEntryInflType"
+						guid="a32f1d1c-4832-46a2-9732-c2276d6547e8">
+						<Abbreviation>
+							<AUni
+								ws="en">pl.</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.555" />
+						<DateModified
+							val="2022-3-11 10:30:4.555" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">The plural form of a noun that does not take the regular inflectional affix for plural.</Run>
+							</AStr>
+						</Description>
+						<Discussion>
+							<StText
+								guid="b716211a-ea5e-11de-8768-0013722f8dec">
+								<DateModified
+									val="2022-3-11 10:30:4.524" />
+								<Paragraphs>
+									<ownseq
+										class="StTxtPara"
+										guid="b7220cc8-ea5e-11de-8bbc-0013722f8dec">
+										<ParseIsCurrent
+											val="False" />
+									</ownseq>
+								</Paragraphs>
+								<RightToLeft
+									val="False" />
+							</StText>
+						</Discussion>
+						<ForeColor
+							val="0" />
+						<GlossAppend>
+							<AUni
+								ws="en">.pl</AUni>
+						</GlossAppend>
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="True" />
+						<Name>
+							<AUni
+								ws="en">Plural</AUni>
+						</Name>
+						<ReverseAbbr>
+							<AUni
+								ws="en">pl. of</AUni>
+						</ReverseAbbr>
+						<ReverseName>
+							<AUni
+								ws="en">Plural of</AUni>
+						</ReverseName>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="LexEntryInflType"
+						guid="837ebe72-8c1d-4864-95d9-fa313c499d78">
+						<Abbreviation>
+							<AUni
+								ws="en">pst.</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.555" />
+						<DateModified
+							val="2022-3-11 10:30:4.555" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">The past tense form of a verb that does not take the regular inflectional affix for past tense.</Run>
+							</AStr>
+						</Description>
+						<Discussion>
+							<StText
+								guid="b72df880-ea5e-11de-8e18-0013722f8dec">
+								<DateModified
+									val="2022-3-11 10:30:4.524" />
+								<Paragraphs>
+									<ownseq
+										class="StTxtPara"
+										guid="b73781de-ea5e-11de-9216-0013722f8dec">
+										<ParseIsCurrent
+											val="False" />
+									</ownseq>
+								</Paragraphs>
+								<RightToLeft
+									val="False" />
+							</StText>
+						</Discussion>
+						<ForeColor
+							val="0" />
+						<GlossAppend>
+							<AUni
+								ws="en">.pst</AUni>
+						</GlossAppend>
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="True" />
+						<Name>
+							<AUni
+								ws="en">Past</AUni>
+						</Name>
+						<ReverseAbbr>
+							<AUni
+								ws="en">pst. of</AUni>
+						</ReverseAbbr>
+						<ReverseName>
+							<AUni
+								ws="en">Past of</AUni>
+						</ReverseName>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="LexEntryType"
+				guid="0c4663b3-4d9a-47af-b9a1-c8565d8112ed">
+				<Abbreviation>
+					<AUni
+						ws="en">sp. var.</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.555" />
+				<DateModified
+					val="2022-3-11 10:30:4.555" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">A variant spelling of a lexeme.</Run>
+					</AStr>
+				</Description>
+				<Discussion>
+					<StText
+						guid="b7436d8c-ea5e-11de-8477-0013722f8dec">
+						<DateModified
+							val="2022-3-11 10:30:4.524" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="b74f5944-ea5e-11de-9017-0013722f8dec">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="True" />
+				<Name>
+					<AUni
+						ws="en">Spelling Variant</AUni>
+				</Name>
+				<ReverseAbbr>
+					<AUni
+						ws="en">sp. var. of</AUni>
+				</ReverseAbbr>
+				<ReverseName>
+					<AUni
+						ws="en">Spelling Variant of</AUni>
+				</ReverseName>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+		</Possibilities>
+		<PreventChoiceAboveLevel
+			val="0" />
+		<PreventDuplicates
+			val="True" />
+		<PreventNodeChoices
+			val="False" />
+		<UseExtendedFields
+			val="False" />
+		<WsSelector
+			val="-3" />
+	</CmPossibilityList>
+</VariantEntryTypes>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lexicon>
+	<LexEntry
+		guid="1680c869-1d9c-41e1-a52a-81994a5ccf71">
+		<DateCreated
+			val="2022-3-11 10:50:24.634" />
+		<DateModified
+			val="2022-3-11 10:50:24.634" />
+		<DoNotUseForParsing
+			val="False" />
+		<HomographNumber
+			val="0" />
+		<LexemeForm>
+			<MoStemAllomorph
+				guid="009ec67c-2215-46a6-895f-036248ba5379">
+				<Form>
+					<AUni
+						ws="byn">gədɨŋ</AUni>
+				</Form>
+				<IsAbstract
+					val="False" />
+				<MorphType>
+					<objsur
+						guid="d7f713e8-e8cf-11d3-9764-00c04f186933"
+						t="r" />
+				</MorphType>
+			</MoStemAllomorph>
+		</LexemeForm>
+		<MorphoSyntaxAnalyses>
+			<MoStemMsa
+				guid="3e136408-ec55-4f30-83cb-95e6750b21f4">
+				<PartOfSpeech>
+					<objsur
+						guid="a8e41fd3-e343-4c7c-aa05-01ea3dd5cfb5"
+						t="r" />
+				</PartOfSpeech>
+			</MoStemMsa>
+		</MorphoSyntaxAnalyses>
+		<Senses>
+			<ownseq
+				class="LexSense"
+				guid="bee5cdda-c1bd-401b-bd9d-9a8396ce9af1">
+				<Gloss>
+					<AUni
+						ws="en">dog</AUni>
+				</Gloss>
+				<MorphoSyntaxAnalysis>
+					<objsur
+						guid="3e136408-ec55-4f30-83cb-95e6750b21f4"
+						t="r" />
+				</MorphoSyntaxAnalysis>
+			</ownseq>
+		</Senses>
+	</LexEntry>
+	<LexEntry
+		guid="364abb7d-c4ef-4449-89ff-a71d0d98204a">
+		<DateCreated
+			val="2022-3-11 10:55:26.65" />
+		<DateModified
+			val="2022-3-11 10:55:26.65" />
+		<DoNotUseForParsing
+			val="False" />
+		<HomographNumber
+			val="0" />
+		<LexemeForm>
+			<MoStemAllomorph
+				guid="4ee44f92-e89a-4b73-b203-0d37cc353dd1">
+				<Form>
+					<AUni
+						ws="byn">ʃeb</AUni>
+				</Form>
+				<IsAbstract
+					val="False" />
+				<MorphType>
+					<objsur
+						guid="d7f713e8-e8cf-11d3-9764-00c04f186933"
+						t="r" />
+				</MorphType>
+			</MoStemAllomorph>
+		</LexemeForm>
+		<MorphoSyntaxAnalyses>
+			<MoStemMsa
+				guid="7cdc78c8-d1b3-49cf-b3f9-4153957444e9">
+				<PartOfSpeech>
+					<objsur
+						guid="a8e41fd3-e343-4c7c-aa05-01ea3dd5cfb5"
+						t="r" />
+				</PartOfSpeech>
+			</MoStemMsa>
+		</MorphoSyntaxAnalyses>
+		<Senses>
+			<ownseq
+				class="LexSense"
+				guid="c42c3c2b-a8b5-4030-b323-280d0df9bc42">
+				<Gloss>
+					<AUni
+						ws="en">milk</AUni>
+				</Gloss>
+				<MorphoSyntaxAnalysis>
+					<objsur
+						guid="7cdc78c8-d1b3-49cf-b3f9-4153957444e9"
+						t="r" />
+				</MorphoSyntaxAnalysis>
+			</ownseq>
+		</Senses>
+	</LexEntry>
+	<LexEntry
+		guid="b88d1d79-bd30-451b-9b71-b89b4796dbea">
+		<DateCreated
+			val="2022-3-11 11:1:45.290" />
+		<DateModified
+			val="2022-3-11 11:1:45.290" />
+		<DoNotUseForParsing
+			val="False" />
+		<HomographNumber
+			val="0" />
+		<LexemeForm>
+			<MoAffixAllomorph
+				guid="e0e442eb-0dfb-406d-8474-ca810942b0d5">
+				<Form>
+					<AUni
+						ws="byn">to</AUni>
+				</Form>
+				<IsAbstract
+					val="False" />
+				<MorphType>
+					<objsur
+						guid="d7f713dd-e8cf-11d3-9764-00c04f186933"
+						t="r" />
+				</MorphType>
+			</MoAffixAllomorph>
+		</LexemeForm>
+		<MorphoSyntaxAnalyses>
+			<MoInflAffMsa
+				guid="7f8ae468-7610-4ac5-97a4-f58b7abe52a8">
+				<PartOfSpeech>
+					<objsur
+						guid="86ff66f6-0774-407a-a0dc-3eeaf873daf7"
+						t="r" />
+				</PartOfSpeech>
+			</MoInflAffMsa>
+		</MorphoSyntaxAnalyses>
+		<Senses>
+			<ownseq
+				class="LexSense"
+				guid="d1e57730-9987-4322-bbd4-a465178df738">
+				<Gloss>
+					<AUni
+						ws="en">SBJV.2SG/3SG.f</AUni>
+				</Gloss>
+				<MorphoSyntaxAnalysis>
+					<objsur
+						guid="7f8ae468-7610-4ac5-97a4-f58b7abe52a8"
+						t="r" />
+				</MorphoSyntaxAnalysis>
+			</ownseq>
+		</Senses>
+	</LexEntry>
+</Lexicon>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lexicon>
+	<LexEntry
+		guid="02e796a8-5f99-4a86-9a1d-9435ae433d01">
+		<DateCreated
+			val="2022-3-11 11:9:8.734" />
+		<DateModified
+			val="2022-3-11 11:12:35.517" />
+		<DoNotUseForParsing
+			val="False" />
+		<HomographNumber
+			val="0" />
+		<LexemeForm>
+			<MoStemAllomorph
+				guid="bb092189-7402-45f1-a9ee-ef3137e34603">
+				<Form>
+					<AUni
+						ws="byn">gis</AUni>
+				</Form>
+				<IsAbstract
+					val="False" />
+				<MorphType>
+					<objsur
+						guid="d7f713e7-e8cf-11d3-9764-00c04f186933"
+						t="r" />
+				</MorphType>
+			</MoStemAllomorph>
+		</LexemeForm>
+		<MorphoSyntaxAnalyses>
+			<MoStemMsa
+				guid="73fbc0c9-7a47-41c9-9795-5169d066b13e">
+				<PartOfSpeech>
+					<objsur
+						guid="86ff66f6-0774-407a-a0dc-3eeaf873daf7"
+						t="r" />
+				</PartOfSpeech>
+			</MoStemMsa>
+		</MorphoSyntaxAnalyses>
+		<Senses>
+			<ownseq
+				class="LexSense"
+				guid="52cd7f58-585a-4ff3-964a-369090529479">
+				<Gloss>
+					<AUni
+						ws="en">cook</AUni>
+				</Gloss>
+				<MorphoSyntaxAnalysis>
+					<objsur
+						guid="73fbc0c9-7a47-41c9-9795-5169d066b13e"
+						t="r" />
+				</MorphoSyntaxAnalysis>
+			</ownseq>
+		</Senses>
+	</LexEntry>
+	<LexEntry
+		guid="69c0a54a-16ba-41d3-9e0e-4968daa6188d">
+		<DateCreated
+			val="2022-3-11 10:43:15.83" />
+		<DateModified
+			val="2022-3-11 10:43:15.83" />
+		<DoNotUseForParsing
+			val="False" />
+		<HomographNumber
+			val="0" />
+		<LexemeForm>
+			<MoStemAllomorph
+				guid="d9273b4d-6546-4420-b329-23804a2bb9da">
+				<Form>
+					<AUni
+						ws="byn">an</AUni>
+				</Form>
+				<IsAbstract
+					val="False" />
+				<MorphType>
+					<objsur
+						guid="d7f713e8-e8cf-11d3-9764-00c04f186933"
+						t="r" />
+				</MorphType>
+			</MoStemAllomorph>
+		</LexemeForm>
+		<MorphoSyntaxAnalyses>
+			<MoStemMsa
+				guid="02dd29b3-8c5a-4b39-abfd-f1543712825c">
+				<PartOfSpeech>
+					<objsur
+						guid="a4fc78d6-7591-4fb3-8edd-82f10ae3739d"
+						t="r" />
+				</PartOfSpeech>
+			</MoStemMsa>
+		</MorphoSyntaxAnalyses>
+		<Senses>
+			<ownseq
+				class="LexSense"
+				guid="d6b9b7f4-ec34-4033-9c89-66b811e0f075">
+				<Gloss>
+					<AUni
+						ws="en">I</AUni>
+				</Gloss>
+				<MorphoSyntaxAnalysis>
+					<objsur
+						guid="02dd29b3-8c5a-4b39-abfd-f1543712825c"
+						t="r" />
+				</MorphoSyntaxAnalysis>
+			</ownseq>
+		</Senses>
+	</LexEntry>
+</Lexicon>

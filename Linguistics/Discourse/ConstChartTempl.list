@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConstChartTempl>
+	<CmPossibilityList
+		guid="c40a77d6-ea5e-11de-99c2-0013722f8dec">
+		<Abbreviation>
+			<AUni
+				ws="en">ConChrtTempl</AUni>
+		</Abbreviation>
+		<DateCreated
+			val="2018-8-2 16:32:9.985" />
+		<DateModified
+			val="2018-8-2 16:32:9.985" />
+		<Depth
+			val="127" />
+		<DisplayOption
+			val="0" />
+		<IsClosed
+			val="False" />
+		<IsSorted
+			val="True" />
+		<IsVernacular
+			val="False" />
+		<ItemClsid
+			val="7" />
+		<ListVersion
+			val="00000000-0000-0000-0000-000000000000" />
+		<Name>
+			<AUni
+				ws="en">Text Constituent Chart Templates</AUni>
+		</Name>
+		<Possibilities>
+			<ownseq
+				class="CmPossibility"
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">def</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Default</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="CmPossibility"
+						guid="c41fece2-ea5e-11de-8db3-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">prenuc</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Pre-nuclear</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<SubPossibilities>
+							<ownseq
+								class="CmPossibility"
+								guid="c42bd890-ea5e-11de-8f25-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">out</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Outer</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c43561ee-ea5e-11de-8cbe-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">in</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Inner</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+						</SubPossibilities>
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c4414da6-ea5e-11de-8c42-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">nuc</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Nucleus</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<SubPossibilities>
+							<ownseq
+								class="CmPossibility"
+								guid="c44d3954-ea5e-11de-8138-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">subj</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Subject</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c456c2b2-ea5e-11de-8b3c-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">v</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Verb</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c462ae6a-ea5e-11de-9cc0-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">o/c</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Object/Complement</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+						</SubPossibilities>
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c46e9a18-ea5e-11de-8016-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">postnuc</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Post-nuclear</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<SubPossibilities>
+							<ownseq
+								class="CmPossibility"
+								guid="c47a85d0-ea5e-11de-986c-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">in</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Inner</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c4840f24-ea5e-11de-959e-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">out</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Outer</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+						</SubPossibilities>
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+		</Possibilities>
+		<PreventChoiceAboveLevel
+			val="0" />
+		<PreventDuplicates
+			val="False" />
+		<PreventNodeChoices
+			val="False" />
+		<UseExtendedFields
+			val="False" />
+		<WsSelector
+			val="-3" />
+	</CmPossibilityList>
+</ConstChartTempl>

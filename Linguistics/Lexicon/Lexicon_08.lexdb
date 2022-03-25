@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lexicon>
+	<LexEntry
+		guid="7ec71227-7a6e-4e38-bdb8-155bb591311e">
+		<DateCreated
+			val="2022-3-11 10:32:33.672" />
+		<DateModified
+			val="2022-3-11 11:12:47.552" />
+		<DoNotUseForParsing
+			val="False" />
+		<HomographNumber
+			val="0" />
+		<LexemeForm>
+			<MoStemAllomorph
+				guid="5cde99cf-9c41-4080-b783-6819d11a7bc9">
+				<Form>
+					<AUni
+						ws="byn">fə</AUni>
+				</Form>
+				<IsAbstract
+					val="False" />
+				<MorphType>
+					<objsur
+						guid="d7f713e7-e8cf-11d3-9764-00c04f186933"
+						t="r" />
+				</MorphType>
+			</MoStemAllomorph>
+		</LexemeForm>
+		<MorphoSyntaxAnalyses>
+			<MoStemMsa
+				guid="8fa7b48e-9bbc-457e-8c57-a002098ca5cb">
+				<PartOfSpeech>
+					<objsur
+						guid="86ff66f6-0774-407a-a0dc-3eeaf873daf7"
+						t="r" />
+				</PartOfSpeech>
+			</MoStemMsa>
+		</MorphoSyntaxAnalyses>
+		<Senses>
+			<ownseq
+				class="LexSense"
+				guid="cd290dd7-05f5-4329-ac4e-8518807deeef">
+				<Gloss>
+					<AUni
+						ws="en">go_out, leave</AUni>
+				</Gloss>
+				<MorphoSyntaxAnalysis>
+					<objsur
+						guid="8fa7b48e-9bbc-457e-8c57-a002098ca5cb"
+						t="r" />
+				</MorphoSyntaxAnalysis>
+			</ownseq>
+		</Senses>
+	</LexEntry>
+	<LexEntry
+		guid="d14f306f-4946-4ccc-99bb-053c3fab02d8">
+		<DateCreated
+			val="2022-3-11 10:46:18.31" />
+		<DateModified
+			val="2022-3-11 10:46:18.31" />
+		<DoNotUseForParsing
+			val="False" />
+		<HomographNumber
+			val="0" />
+		<LexemeForm>
+			<MoStemAllomorph
+				guid="98865241-c7fe-46ce-92c4-cda155be7493">
+				<Form>
+					<AUni
+						ws="byn">nau</AUni>
+				</Form>
+				<IsAbstract
+					val="False" />
+				<MorphType>
+					<objsur
+						guid="d7f713e8-e8cf-11d3-9764-00c04f186933"
+						t="r" />
+				</MorphType>
+			</MoStemAllomorph>
+		</LexemeForm>
+		<MorphoSyntaxAnalyses>
+			<MoStemMsa
+				guid="0d27cd66-5939-47f3-b731-761b881960ec">
+				<PartOfSpeech>
+					<objsur
+						guid="a4fc78d6-7591-4fb3-8edd-82f10ae3739d"
+						t="r" />
+				</PartOfSpeech>
+			</MoStemMsa>
+		</MorphoSyntaxAnalyses>
+		<Senses>
+			<ownseq
+				class="LexSense"
+				guid="93895ab0-1c43-42c2-aebe-a5dc8b8e5d31">
+				<Gloss>
+					<AUni
+						ws="en">they</AUni>
+				</Gloss>
+				<MorphoSyntaxAnalysis>
+					<objsur
+						guid="0d27cd66-5939-47f3-b731-761b881960ec"
+						t="r" />
+				</MorphoSyntaxAnalysis>
+			</ownseq>
+		</Senses>
+	</LexEntry>
+</Lexicon>

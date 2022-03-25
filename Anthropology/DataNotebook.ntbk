@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Anthropology>
+	<header>
+		<RnResearchNbk
+			guid="d739cbea-ea5e-11de-85be-0013722f8dec">
+			<DateCreated
+				val="2022-3-11 10:30:2.823" />
+			<DateModified
+				val="2022-3-11 10:30:2.823" />
+			<Name>
+				<AUni
+					ws="en">Data Notebook</AUni>
+			</Name>
+			<RecTypes />
+		</RnResearchNbk>
+	</header>
+</Anthropology>

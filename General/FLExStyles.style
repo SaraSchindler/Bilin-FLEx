@@ -1,0 +1,1916 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Styles>
+	<StStyle
+		guid="164123a0-ca12-4c44-bd69-d5fb9d4b1a0b">
+		<Context
+			val="14" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Dictionary-SenseNumber</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				bold="invert" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">The number before each sense in an entry.</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="1b25e2a0-5f78-40d1-943a-2b14caccf860">
+		<Context
+			val="0" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Disabled Text</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				forecolor="6d6d6d" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">Material marked as being disabled (no longer active)</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="1fafdfa6-34a7-4577-b4aa-0c6518af623a">
+		<BasedOn>
+			<objsur
+				guid="7d2c80cd-af87-4d56-8337-cfd389b775bb"
+				t="r" />
+		</BasedOn>
+		<Context
+			val="14" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Classified-MainEntry</Uni>
+		</Name>
+		<Next>
+			<objsur
+				guid="945e6502-615b-4863-a18c-111e4d6b36c6"
+				t="r" />
+		</Next>
+		<Rules>
+			<Prop
+				bold="invert"
+				fontsize="12000"
+				fontsizeUnit="mpt"
+				italic="off"
+				spaceAfter="2000"
+				spaceBefore="8000" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="0" />
+		<Usage>
+			<AUni
+				ws="en">In a Classified Dictionary, the heading giving the classification name</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="23efa4cc-0347-4fc1-a33d-57b57ee852f9">
+		<BasedOn>
+			<objsur
+				guid="aba229f3-ca42-4727-a903-0abc3d418607"
+				t="r" />
+		</BasedOn>
+		<Context
+			val="14" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Sense-Reference-Number</Uni>
+		</Name>
+		<Rules>
+			<Prop />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">Used for sense numbers in cross references.</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="25d17a96-4130-49c5-8f2b-497c1953556a">
+		<Context
+			val="14" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Reversal-Headword</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				bold="invert" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">Used for the reversal form at the start of a reversal entry.</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="282f9ae7-d4dc-4c9b-93b5-413a7d3986b1">
+		<Context
+			val="14" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Reversal-Vernacular</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				italic="invert" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">Used for items in reversal entries that contain vernacular text.</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="29e239ee-95f3-4c1e-97d7-e2a6794cd174">
+		<Context
+			val="15" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>DefaultFootnoteCharacters</Uni>
+		</Name>
+		<Rules>
+			<Prop />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<UserLevel
+			val="0" />
+	</StStyle>
+	<StStyle
+		guid="3191611c-41c6-4ecf-bcd5-a5084cc3e1f2">
+		<BasedOn>
+			<objsur
+				guid="7d2c80cd-af87-4d56-8337-cfd389b775bb"
+				t="r" />
+		</BasedOn>
+		<Context
+			val="0" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Heading 2</Uni>
+		</Name>
+		<Next>
+			<objsur
+				guid="7d2c80cd-af87-4d56-8337-cfd389b775bb"
+				t="r" />
+		</Next>
+		<Rules>
+			<Prop
+				bold="invert"
+				fontsize="12000"
+				fontsizeUnit="mpt"
+				italic="invert"
+				spaceAfter="3000"
+				spaceBefore="12000" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="0" />
+		<Usage>
+			<AUni
+				ws="en">Second-level headings (1.1, 1.2, 1.3)</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="31d215a7-ac39-4d1c-be7d-88fe2b7c8d34">
+		<Context
+			val="0" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Emphasized Text</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				italic="invert" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">Material to be emphasized</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="366e9470-26f7-4bdf-86e4-f829784c3113">
+		<BasedOn>
+			<objsur
+				guid="7d2c80cd-af87-4d56-8337-cfd389b775bb"
+				t="r" />
+		</BasedOn>
+		<Context
+			val="0" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Heading 3</Uni>
+		</Name>
+		<Next>
+			<objsur
+				guid="7d2c80cd-af87-4d56-8337-cfd389b775bb"
+				t="r" />
+		</Next>
+		<Rules>
+			<Prop
+				bold="off"
+				fontsize="12000"
+				fontsizeUnit="mpt"
+				italic="invert"
+				spaceAfter="3000"
+				spaceBefore="12000" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="0" />
+		<Usage>
+			<AUni
+				ws="en">Third-level headings (1.1.1, 1.1.2, 1.1.3)</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="3c8c511b-4683-4289-88d0-024f66540f6f">
+		<BasedOn>
+			<objsur
+				guid="7d2c80cd-af87-4d56-8337-cfd389b775bb"
+				t="r" />
+		</BasedOn>
+		<Context
+			val="0" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Bulleted List</Uni>
+		</Name>
+		<Next>
+			<objsur
+				guid="3c8c511b-4683-4289-88d0-024f66540f6f"
+				t="r" />
+		</Next>
+		<Rules>
+			<Prop
+				bulNumScheme="101"
+				bulNumStartAt="1"
+				firstIndent="-9000"
+				leadingIndent="21000" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="0" />
+		<Usage>
+			<AUni
+				ws="en">A bulleted list of paragraphs</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="3eb5354a-9f55-4165-a411-eca7f9d2a845">
+		<Context
+			val="0" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Writing System Abbreviation</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				fontsize="8000"
+				fontsizeUnit="mpt"
+				italic="invert" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="3f844794-09d1-45fa-9d75-05c62e2b836d">
+		<Context
+			val="14" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Dictionary-Headword</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				bold="invert" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">The main headword at the start of the entry.</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="4d6cffc4-254e-4ef7-b26b-41aab4bfbf48">
+		<Context
+			val="5" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>UiElement</Uni>
+		</Name>
+		<Rules>
+			<Prop>
+				<WsStyles9999>
+					<WsProp
+						fontFamily="Microsoft Sans Serif"
+						fontsize="10000"
+						fontsizeUnit="mpt"
+						ws="en" />
+				</WsStyles9999>
+			</Prop>
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">This is a special style used for certain parts of the FieldWorks user interface. You should not normally modify it.</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="4e5bf21d-f892-4382-a7a2-4bb9c5da8fcf">
+		<Context
+			val="6" />
+		<Function
+			val="6" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Note Target Reference</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				bold="invert" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">Note Target Reference identifies the verse (or range of verses) that is referenced in a note.</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="501c3363-065d-465a-baad-15d0787f9ded">
+		<BasedOn>
+			<objsur
+				guid="80a47ed1-1e29-40d4-9aa0-d3041a8ca9dc"
+				t="r" />
+		</BasedOn>
+		<Context
+			val="14" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Reversal-Subentry</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				firstIndent="0"
+				leadingIndent="21000"
+				spaceBefore="0" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="0" />
+		<Usage>
+			<AUni
+				ws="en">Each paragraph of subentry information that is added to a reversal entry if there are subentries.</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="507cb768-7f8a-471e-8776-8faf196f27a6">
+		<BasedOn>
+			<objsur
+				guid="679ab46a-8a27-4449-91b1-edad14669b01"
+				t="r" />
+		</BasedOn>
+		<Context
+			val="8" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Note General Paragraph</Uni>
+		</Name>
+		<Next>
+			<objsur
+				guid="507cb768-7f8a-471e-8776-8faf196f27a6"
+				t="r" />
+		</Next>
+		<Rules>
+			<Prop
+				fontsize="8000"
+				fontsizeUnit="mpt"
+				lineHeight="10000"
+				lineHeightType="atLeast"
+				lineHeightUnit="mpt" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="0" />
+		<Usage>
+			<AUni
+				ws="en">Note General Paragraph identifies a note.</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="5ce84d6f-4e4c-45f8-8e77-555471f3efbe">
+		<BasedOn>
+			<objsur
+				guid="7d2c80cd-af87-4d56-8337-cfd389b775bb"
+				t="r" />
+		</BasedOn>
+		<Context
+			val="4" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Book ID</Uni>
+		</Name>
+		<Next>
+			<objsur
+				guid="5ce84d6f-4e4c-45f8-8e77-555471f3efbe"
+				t="r" />
+		</Next>
+		<Rules>
+			<Prop />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="0" />
+		<UserLevel
+			val="0" />
+	</StStyle>
+	<StStyle
+		guid="674f0bdd-4240-49d7-9288-a6dcc130ff08">
+		<Context
+			val="10" />
+		<Function
+			val="5" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Verse Number</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				spellcheck="doNotCheck"
+				superscript="super" />
+		</Rules>
+		<Structure
+			val="2" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">Verse Number identifies the start of a verse.</AUni>
+		</Usage>
+		<UserLevel
+			val="0" />
+	</StStyle>
+	<StStyle
+		guid="679ab46a-8a27-4449-91b1-edad14669b01">
+		<BasedOn>
+			<objsur
+				guid="7d2c80cd-af87-4d56-8337-cfd389b775bb"
+				t="r" />
+		</BasedOn>
+		<Context
+			val="10" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Paragraph</Uni>
+		</Name>
+		<Next>
+			<objsur
+				guid="679ab46a-8a27-4449-91b1-edad14669b01"
+				t="r" />
+		</Next>
+		<Rules>
+			<Prop
+				firstIndent="12000" />
+		</Rules>
+		<Structure
+			val="2" />
+		<Type
+			val="0" />
+		<Usage>
+			<AUni
+				ws="en">Paragraph identifies a paragraph of prose.</AUni>
+		</Usage>
+		<UserLevel
+			val="0" />
+	</StStyle>
+	<StStyle
+		guid="693aedeb-1f1a-4f1f-b6cd-4a2a96a1dc37">
+		<BasedOn>
+			<objsur
+				guid="7a194e30-4c8c-4934-83ad-b12ecc47a768"
+				t="r" />
+		</BasedOn>
+		<Context
+			val="14" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Dictionary-Subsubentry</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				firstIndent="0"
+				leadingIndent="33000"
+				spaceBefore="0" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="0" />
+		<Usage>
+			<AUni
+				ws="en">Each paragraph of subsubentry information that is added to the entry if there are subsubentries.</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="6de6e4d1-0c06-4102-86e2-82faf7bf9811">
+		<Context
+			val="14" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Classified-Defn</Uni>
+		</Name>
+		<Rules>
+			<Prop />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">Used for the definition and/or gloss in a Classified Dictionary.</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="6ed2cb3d-f6db-4af5-9de9-75669ce26f46">
+		<BasedOn>
+			<objsur
+				guid="3f844794-09d1-45fa-9d75-05c62e2b836d"
+				t="r" />
+		</BasedOn>
+		<Context
+			val="14" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Homograph-Number</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				bold="invert"
+				superscript="sub" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">Used for homograph numbers, both in headwords and in references.</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="6fab1eb3-500c-4b76-be30-a27b0b12883a">
+		<Context
+			val="11" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Title Secondary</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				fontsize="14000"
+				fontsizeUnit="mpt" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">Title Secondary identifies a part of the title that is of second-level importance.</AUni>
+		</Usage>
+		<UserLevel
+			val="3" />
+	</StStyle>
+	<StStyle
+		guid="6fbc04a2-3664-4106-abf3-dfe699b97be5">
+		<Context
+			val="8" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Alternate Reading</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				bold="invert" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">Alternate Reading identifies an alternate translation for a passage in a note.</AUni>
+		</Usage>
+		<UserLevel
+			val="2" />
+	</StStyle>
+	<StStyle
+		guid="740c5846-9d09-4109-806c-5357fede8712">
+		<BasedOn>
+			<objsur
+				guid="7d2c80cd-af87-4d56-8337-cfd389b775bb"
+				t="r" />
+		</BasedOn>
+		<Context
+			val="0" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Numbered List</Uni>
+		</Name>
+		<Next>
+			<objsur
+				guid="740c5846-9d09-4109-806c-5357fede8712"
+				t="r" />
+		</Next>
+		<Rules>
+			<Prop
+				bulNumScheme="10"
+				bulNumStartAt="1"
+				firstIndent="-9000"
+				leadingIndent="21000" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="0" />
+		<Usage>
+			<AUni
+				ws="en">A numbered list of paragraphs</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="7434c828-a430-4084-8a49-4be3bfa97068">
+		<Context
+			val="0" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Added Text</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				forecolor="2e8b57"
+				undercolor="2e8b57"
+				underline="single" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">Material marked as being added</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="7473c95b-26ed-4fda-8f31-c8aa0c25f2aa">
+		<BasedOn>
+			<objsur
+				guid="a5a1a249-b888-434d-a839-a2421ec50dbf"
+				t="r" />
+		</BasedOn>
+		<Context
+			val="11" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Title Main</Uni>
+		</Name>
+		<Next>
+			<objsur
+				guid="7473c95b-26ed-4fda-8f31-c8aa0c25f2aa"
+				t="r" />
+		</Next>
+		<Rules>
+			<Prop
+				align="center"
+				bold="invert"
+				fontsize="20000"
+				fontsizeUnit="mpt"
+				italic="off"
+				lineHeight="24000"
+				lineHeightType="exact"
+				lineHeightUnit="mpt"
+				spaceAfter="12000"
+				spaceBefore="36000" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="0" />
+		<Usage>
+			<AUni
+				ws="en">Title Main identifies the main title of a book.</AUni>
+		</Usage>
+		<UserLevel
+			val="0" />
+	</StStyle>
+	<StStyle
+		guid="77997501-47d3-4574-ae1d-7300107dfb73">
+		<BasedOn>
+			<objsur
+				guid="7d2c80cd-af87-4d56-8337-cfd389b775bb"
+				t="r" />
+		</BasedOn>
+		<Context
+			val="0" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Heading 1</Uni>
+		</Name>
+		<Next>
+			<objsur
+				guid="7d2c80cd-af87-4d56-8337-cfd389b775bb"
+				t="r" />
+		</Next>
+		<Rules>
+			<Prop
+				bold="invert"
+				fontsize="14000"
+				fontsizeUnit="mpt"
+				spaceAfter="3000"
+				spaceBefore="12000" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="0" />
+		<Usage>
+			<AUni
+				ws="en">Major headings (1, 2, 3)</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="7a194e30-4c8c-4934-83ad-b12ecc47a768">
+		<BasedOn>
+			<objsur
+				guid="7d2c80cd-af87-4d56-8337-cfd389b775bb"
+				t="r" />
+		</BasedOn>
+		<Context
+			val="14" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Dictionary-Normal</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				firstIndent="-12000"
+				leadingIndent="9000"
+				spaceAfter="2000"
+				spaceBefore="1000" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="0" />
+		<Usage>
+			<AUni
+				ws="en">Base style for everything in the Dictionary view.</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="7d2c80cd-af87-4d56-8337-cfd389b775bb">
+		<Context
+			val="0" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Normal</Uni>
+		</Name>
+		<Next>
+			<objsur
+				guid="7d2c80cd-af87-4d56-8337-cfd389b775bb"
+				t="r" />
+		</Next>
+		<Rules>
+			<Prop
+				fontsize="10000"
+				fontsizeUnit="mpt"
+				lineHeight="12000"
+				lineHeightType="atLeast"
+				lineHeightUnit="mpt"
+				spaceAfter="6000"
+				spaceBefore="0" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="0" />
+		<Usage>
+			<AUni
+				ws="en">Normal is a parent style that all other paragraph styles are usually based on.</AUni>
+		</Usage>
+		<UserLevel
+			val="0" />
+	</StStyle>
+	<StStyle
+		guid="7ff691e7-32f4-445d-acea-1ded6a6ac8ea">
+		<Context
+			val="5" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Hyperlink</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				forecolor="blue"
+				undercolor="blue"
+				underline="single" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">Links to other material via URLs</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="80a47ed1-1e29-40d4-9aa0-d3041a8ca9dc">
+		<BasedOn>
+			<objsur
+				guid="7d2c80cd-af87-4d56-8337-cfd389b775bb"
+				t="r" />
+		</BasedOn>
+		<Context
+			val="14" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Reversal-Normal</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				firstIndent="-12000"
+				leadingIndent="9000"
+				spaceAfter="2000"
+				spaceBefore="1000" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="0" />
+		<Usage>
+			<AUni
+				ws="en">Base style for everything in the Reversal view.</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="879d3c6f-8e62-4887-a4af-27feb88c2af1">
+		<BasedOn>
+			<objsur
+				guid="7d2c80cd-af87-4d56-8337-cfd389b775bb"
+				t="r" />
+		</BasedOn>
+		<Context
+			val="0" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Block Quote</Uni>
+		</Name>
+		<Next>
+			<objsur
+				guid="879d3c6f-8e62-4887-a4af-27feb88c2af1"
+				t="r" />
+		</Next>
+		<Rules>
+			<Prop
+				firstIndent="0"
+				leadingIndent="21000"
+				trailingIndent="21000" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="0" />
+		<Usage>
+			<AUni
+				ws="en">Extended (paragraph size or larger) quotation</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="89670d4f-71d4-4878-b2ff-815e45512be1">
+		<Context
+			val="14" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Dictionary-Context</Uni>
+		</Name>
+		<Rules>
+			<Prop />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">Base style for Before/After/Between content in Dictionary and Reversal views.</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="905a485e-4b54-47eb-a8e9-1f86e9c25699">
+		<BasedOn>
+			<objsur
+				guid="7a194e30-4c8c-4934-83ad-b12ecc47a768"
+				t="r" />
+		</BasedOn>
+		<Context
+			val="14" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Dictionary-Sense</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				firstIndent="-12000"
+				leadingIndent="21000"
+				spaceBefore="0" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="0" />
+		<Usage>
+			<AUni
+				ws="en">Each paragraph of sense information that is added to the entry if senses are formatted as paragraphs.</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="90b94e23-3e77-4460-94fd-c1997ed9a81f">
+		<BasedOn>
+			<objsur
+				guid="7a194e30-4c8c-4934-83ad-b12ecc47a768"
+				t="r" />
+		</BasedOn>
+		<Context
+			val="14" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Dictionary-Subentry</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				firstIndent="0"
+				leadingIndent="21000"
+				spaceBefore="0" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="0" />
+		<Usage>
+			<AUni
+				ws="en">Each paragraph of subentry information that is added to the entry if there are subentries.</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="9132811f-a2e6-43b1-92f2-6e2030bbea12">
+		<BasedOn>
+			<objsur
+				guid="7a194e30-4c8c-4934-83ad-b12ecc47a768"
+				t="r" />
+		</BasedOn>
+		<Context
+			val="14" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Dictionary-Minor</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				spaceBefore="0" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="0" />
+		<Usage>
+			<AUni
+				ws="en">Each paragraph of minor entry information that is added to the entry if there are minor entries.</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="92e5dc56-317a-461d-a179-e9e005d6612a">
+		<BasedOn>
+			<objsur
+				guid="7a194e30-4c8c-4934-83ad-b12ecc47a768"
+				t="r" />
+		</BasedOn>
+		<Context
+			val="14" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Dictionary-Pictures</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				firstIndent="0"
+				leadingIndent="21000"
+				spaceBefore="0" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="0" />
+		<Usage>
+			<AUni
+				ws="en">The paragraph of pictures that follows the main paragraph (if there are pictures).</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="945e6502-615b-4863-a18c-111e4d6b36c6">
+		<BasedOn>
+			<objsur
+				guid="7d2c80cd-af87-4d56-8337-cfd389b775bb"
+				t="r" />
+		</BasedOn>
+		<Context
+			val="14" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Classified-Item</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				firstIndent="-9000"
+				leadingIndent="9000"
+				spaceBefore="2000" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="0" />
+		<Usage>
+			<AUni
+				ws="en">In a Classified Dictionary, the individual item paragraphs</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="9795fb02-12d8-4d1e-9546-5f1bf1c848ea">
+		<Context
+			val="0" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Strong</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				bold="invert" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">Material to stand out boldly</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="9ece8f19-30f0-43a0-bf7b-9e5f33c6cea7">
+		<Context
+			val="0" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Deleted Text</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				forecolor="red"
+				undercolor="red"
+				underline="strikethrough" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">Material marked as being deleted</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="9fa82bd0-e797-4c40-88d7-cb591613b426">
+		<Context
+			val="14" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Classified-Headword</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				bold="invert" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">Used for the headword in a Classified Dictionary.</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="a5a1a249-b888-434d-a839-a2421ec50dbf">
+		<BasedOn>
+			<objsur
+				guid="7d2c80cd-af87-4d56-8337-cfd389b775bb"
+				t="r" />
+		</BasedOn>
+		<Context
+			val="10" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Section Head</Uni>
+		</Name>
+		<Next>
+			<objsur
+				guid="679ab46a-8a27-4449-91b1-edad14669b01"
+				t="r" />
+		</Next>
+		<Rules>
+			<Prop
+				align="center"
+				bold="invert"
+				fontsize="9000"
+				fontsizeUnit="mpt"
+				keepTogether="1"
+				keepWithNext="1"
+				spaceAfter="4000"
+				spaceBefore="8000" />
+		</Rules>
+		<Structure
+			val="1" />
+		<Type
+			val="0" />
+		<Usage>
+			<AUni
+				ws="en">Section Head identifies the start of a normal section.</AUni>
+		</Usage>
+		<UserLevel
+			val="0" />
+	</StStyle>
+	<StStyle
+		guid="aba229f3-ca42-4727-a903-0abc3d418607">
+		<Context
+			val="14" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Dictionary-CrossReferences</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				bold="invert" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">Used for the headwords that occur in cross references to other entries.</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="b169287b-53f7-4faa-a2c3-e382f72b845a">
+		<Context
+			val="5" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Note Marker</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				bold="invert"
+				spellcheck="doNotCheck"
+				superscript="super" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">Note Marker identifies the location of a note (for example, a footnote).</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="b93de5b9-556c-4651-8b9d-d3369fb8ebc8">
+		<BasedOn>
+			<objsur
+				guid="a5a1a249-b888-434d-a839-a2421ec50dbf"
+				t="r" />
+		</BasedOn>
+		<Context
+			val="10" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Parallel Passage Reference</Uni>
+		</Name>
+		<Next>
+			<objsur
+				guid="679ab46a-8a27-4449-91b1-edad14669b01"
+				t="r" />
+		</Next>
+		<Rules>
+			<Prop
+				bold="off"
+				italic="invert"
+				spaceAfter="4000"
+				spaceBefore="-4000" />
+		</Rules>
+		<Structure
+			val="1" />
+		<Type
+			val="0" />
+		<Usage>
+			<AUni
+				ws="en">Parallel Passage Reference identifies canonical (book-chapter-verse) references to parallel passages.</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="bc5caa5e-6324-4935-8573-8378fc6cf6c9">
+		<BasedOn>
+			<objsur
+				guid="a5a1a249-b888-434d-a839-a2421ec50dbf"
+				t="r" />
+		</BasedOn>
+		<Context
+			val="10" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Chapter Head</Uni>
+		</Name>
+		<Next>
+			<objsur
+				guid="679ab46a-8a27-4449-91b1-edad14669b01"
+				t="r" />
+		</Next>
+		<Rules>
+			<Prop
+				align="center"
+				italic="off" />
+		</Rules>
+		<Structure
+			val="1" />
+		<Type
+			val="0" />
+		<Usage>
+			<AUni
+				ws="en">Chapter Head identifies a heading that contains the chapter number and the word for Chapter or Psalm.</AUni>
+		</Usage>
+		<UserLevel
+			val="0" />
+	</StStyle>
+	<StStyle
+		guid="cb0fbdb3-2ca2-473b-97bb-8f505e18010c">
+		<Context
+			val="14" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Dictionary-Contrasting</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				italic="invert" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">Used for items in the entry that need to be distinguished from neighboring items.</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="d80764cc-4d86-4e14-b217-d1b0a4dc3379">
+		<Context
+			val="14" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Dictionary-Vernacular</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				italic="invert" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">Used for items in the entry that contain vernacular text.</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="dbf212fe-a9ef-4cc8-a41f-7cad28a99bd3">
+		<Context
+			val="10" />
+		<Function
+			val="4" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Chapter Number</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				spellcheck="doNotCheck" />
+		</Rules>
+		<Structure
+			val="2" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">Chapter Number identifies the start of a chapter.</AUni>
+		</Usage>
+		<UserLevel
+			val="0" />
+	</StStyle>
+	<StStyle
+		guid="dd807cae-4b18-4354-934d-99632b663f9e">
+		<BasedOn>
+			<objsur
+				guid="7a194e30-4c8c-4934-83ad-b12ecc47a768"
+				t="r" />
+		</BasedOn>
+		<Context
+			val="5" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Dictionary-LetterHeading</Uni>
+		</Name>
+		<Next>
+			<objsur
+				guid="7a194e30-4c8c-4934-83ad-b12ecc47a768"
+				t="r" />
+		</Next>
+		<Rules>
+			<Prop
+				align="center"
+				bold="invert"
+				fontsize="14000"
+				fontsizeUnit="mpt"
+				spaceAfter="3000"
+				spaceBefore="12000" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="0" />
+		<Usage>
+			<AUni
+				ws="en">Letter headings in the dictionary and reversal indexes.</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="f41be047-a4ee-402b-bcfe-9458e502e682">
+		<Context
+			val="14" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Dictionary-POS</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				italic="invert" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">Used for Grammatical Category and other strings that need to be formatted similarly.</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+	<StStyle
+		guid="fb6450f5-626d-4fbf-ada5-4cfd5986b5b0">
+		<Context
+			val="14" />
+		<Function
+			val="0" />
+		<IsBuiltIn
+			val="True" />
+		<IsModified
+			val="False" />
+		<IsPublishedTextStyle
+			val="False" />
+		<Name>
+			<Uni>Classified-POS</Uni>
+		</Name>
+		<Rules>
+			<Prop
+				italic="invert" />
+		</Rules>
+		<Structure
+			val="0" />
+		<Type
+			val="1" />
+		<Usage>
+			<AUni
+				ws="en">Used for the grammatical information in a Classified Dictionary.</AUni>
+		</Usage>
+		<UserLevel
+			val="1" />
+	</StStyle>
+</Styles>

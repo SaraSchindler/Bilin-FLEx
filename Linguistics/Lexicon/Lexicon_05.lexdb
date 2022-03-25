@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lexicon>
+	<LexEntry
+		guid="2150b2c6-5680-485a-912f-aef9df748195">
+		<DateCreated
+			val="2022-3-11 10:53:5.463" />
+		<DateModified
+			val="2022-3-11 10:53:5.463" />
+		<DoNotUseForParsing
+			val="False" />
+		<HomographNumber
+			val="0" />
+		<LexemeForm>
+			<MoStemAllomorph
+				guid="ecf5ef98-4019-4659-971f-5d01196e41f7">
+				<Form>
+					<AUni
+						ws="byn">ləŋən</AUni>
+				</Form>
+				<IsAbstract
+					val="False" />
+				<MorphType>
+					<objsur
+						guid="d7f713e8-e8cf-11d3-9764-00c04f186933"
+						t="r" />
+				</MorphType>
+			</MoStemAllomorph>
+		</LexemeForm>
+		<MorphoSyntaxAnalyses>
+			<MoStemMsa
+				guid="be263dfa-8f51-484b-af2d-48da02e0849c">
+				<PartOfSpeech>
+					<objsur
+						guid="a8e41fd3-e343-4c7c-aa05-01ea3dd5cfb5"
+						t="r" />
+				</PartOfSpeech>
+			</MoStemMsa>
+		</MorphoSyntaxAnalyses>
+		<Senses>
+			<ownseq
+				class="LexSense"
+				guid="eddff96b-7360-495b-9474-c8c839d46464">
+				<Gloss>
+					<AUni
+						ws="en">house</AUni>
+				</Gloss>
+				<MorphoSyntaxAnalysis>
+					<objsur
+						guid="be263dfa-8f51-484b-af2d-48da02e0849c"
+						t="r" />
+				</MorphoSyntaxAnalysis>
+			</ownseq>
+		</Senses>
+	</LexEntry>
+	<LexEntry
+		guid="cc6ab90e-0754-4fa7-a381-c0102582acf0">
+		<DateCreated
+			val="2022-3-11 10:46:2.683" />
+		<DateModified
+			val="2022-3-11 10:46:2.683" />
+		<DoNotUseForParsing
+			val="False" />
+		<HomographNumber
+			val="0" />
+		<LexemeForm>
+			<MoStemAllomorph
+				guid="60e9bff2-53f7-42a9-b01c-195f29ab861f">
+				<Form>
+					<AUni
+						ws="byn">jɨn</AUni>
+				</Form>
+				<IsAbstract
+					val="False" />
+				<MorphType>
+					<objsur
+						guid="d7f713e8-e8cf-11d3-9764-00c04f186933"
+						t="r" />
+				</MorphType>
+			</MoStemAllomorph>
+		</LexemeForm>
+		<MorphoSyntaxAnalyses>
+			<MoStemMsa
+				guid="7432501d-c789-4572-841a-32f8d47843c5">
+				<PartOfSpeech>
+					<objsur
+						guid="a4fc78d6-7591-4fb3-8edd-82f10ae3739d"
+						t="r" />
+				</PartOfSpeech>
+			</MoStemMsa>
+		</MorphoSyntaxAnalyses>
+		<Senses>
+			<ownseq
+				class="LexSense"
+				guid="5178542f-7eca-4b06-b484-2018c2d33697">
+				<Gloss>
+					<AUni
+						ws="en">we</AUni>
+				</Gloss>
+				<MorphoSyntaxAnalysis>
+					<objsur
+						guid="7432501d-c789-4572-841a-32f8d47843c5"
+						t="r" />
+				</MorphoSyntaxAnalysis>
+			</ownseq>
+		</Senses>
+	</LexEntry>
+	<LexEntry
+		guid="d15360d8-af0e-4990-8b3b-0d57143556bb">
+		<DateCreated
+			val="2022-3-11 11:16:24.841" />
+		<DateModified
+			val="2022-3-11 11:16:24.841" />
+		<DoNotUseForParsing
+			val="False" />
+		<HomographNumber
+			val="0" />
+		<LexemeForm>
+			<MoStemAllomorph
+				guid="cc2558bd-1750-4332-bc2d-4d36782fe1b1">
+				<Form>
+					<AUni
+						ws="byn">əmːa</AUni>
+				</Form>
+				<IsAbstract
+					val="False" />
+				<MorphType>
+					<objsur
+						guid="d7f713e8-e8cf-11d3-9764-00c04f186933"
+						t="r" />
+				</MorphType>
+			</MoStemAllomorph>
+		</LexemeForm>
+		<MorphoSyntaxAnalyses>
+			<MoStemMsa
+				guid="f88b0b85-91e5-47d0-836d-7599bc48ded6" />
+		</MorphoSyntaxAnalyses>
+		<Senses>
+			<ownseq
+				class="LexSense"
+				guid="17c099f9-76a6-4ab7-bc40-32fea23491aa">
+				<Gloss>
+					<AUni
+						ws="en">or</AUni>
+				</Gloss>
+				<MorphoSyntaxAnalysis>
+					<objsur
+						guid="f88b0b85-91e5-47d0-836d-7599bc48ded6"
+						t="r" />
+				</MorphoSyntaxAnalysis>
+			</ownseq>
+		</Senses>
+	</LexEntry>
+</Lexicon>

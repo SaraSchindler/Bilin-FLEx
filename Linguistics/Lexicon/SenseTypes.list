@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SenseTypes>
+	<CmPossibilityList
+		guid="af32c340-ea5e-11de-9040-0013722f8dec">
+		<Abbreviation>
+			<AUni
+				ws="en">SenTyp</AUni>
+		</Abbreviation>
+		<DateCreated
+			val="2018-8-2 16:32:6.262" />
+		<DateModified
+			val="2018-8-2 16:32:6.262" />
+		<Depth
+			val="1" />
+		<DisplayOption
+			val="0" />
+		<IsClosed
+			val="False" />
+		<IsSorted
+			val="True" />
+		<IsVernacular
+			val="False" />
+		<ItemClsid
+			val="7" />
+		<ListVersion
+			val="00000000-0000-0000-0000-000000000000" />
+		<Name>
+			<AUni
+				ws="en">Sense Types</AUni>
+		</Name>
+		<Possibilities>
+			<ownseq
+				class="CmPossibility"
+				guid="af3eaef8-ea5e-11de-80fd-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">fig</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.539" />
+				<DateModified
+					val="2022-3-11 10:30:4.539" />
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">figurative</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="af48384c-ea5e-11de-9aef-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">prim</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2022-3-11 10:30:4.539" />
+				<DateModified
+					val="2022-3-11 10:30:4.539" />
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">primary</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+		</Possibilities>
+		<PreventChoiceAboveLevel
+			val="0" />
+		<PreventDuplicates
+			val="False" />
+		<PreventNodeChoices
+			val="False" />
+		<UseExtendedFields
+			val="False" />
+		<WsSelector
+			val="-3" />
+	</CmPossibilityList>
+</SenseTypes>

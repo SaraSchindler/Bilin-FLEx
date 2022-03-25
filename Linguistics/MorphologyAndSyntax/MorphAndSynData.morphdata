@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MorphAndSynData>
+	<MoMorphData
+		guid="b80228bc-ea5e-11de-9d24-0013722f8dec">
+		<ParserParameters>
+			<Uni>&lt;ParserParameters&gt; &lt;XAmple&gt;
+&lt;MaxPrefixes&gt;5&lt;/MaxPrefixes&gt;
+&lt;MaxInfixes&gt;1&lt;/MaxInfixes&gt;
+&lt;MaxSuffixes&gt;5&lt;/MaxSuffixes&gt;
+&lt;MaxInterfixes&gt;0&lt;/MaxInterfixes&gt;
+&lt;MaxNulls&gt;1&lt;/MaxNulls&gt;
+&lt;MaxAnalysesToReturn&gt;10&lt;/MaxAnalysesToReturn&gt;
+&lt;/XAmple&gt; &lt;/ParserParameters&gt; </Uni>
+		</ParserParameters>
+		<ProdRestrict />
+	</MoMorphData>
+</MorphAndSynData>

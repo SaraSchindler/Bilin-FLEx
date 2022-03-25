@@ -1,0 +1,2078 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ChartMarkers>
+	<CmPossibilityList
+		guid="c48ffadc-ea5e-11de-9033-0013722f8dec">
+		<Abbreviation>
+			<AUni
+				ws="en">ChMrkrs</AUni>
+		</Abbreviation>
+		<DateCreated
+			val="2018-8-2 16:32:9.985" />
+		<DateModified
+			val="2018-8-2 16:32:9.985" />
+		<Depth
+			val="127" />
+		<DisplayOption
+			val="0" />
+		<IsClosed
+			val="False" />
+		<IsSorted
+			val="False" />
+		<IsVernacular
+			val="False" />
+		<ItemClsid
+			val="7" />
+		<ListVersion
+			val="00000000-0000-0000-0000-000000000000" />
+		<Name>
+			<AUni
+				ws="en">Text Chart Markers</AUni>
+		</Name>
+		<Possibilities>
+			<ownseq
+				class="CmPossibility"
+				guid="c49be68a-ea5e-11de-86fb-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">TenseAspectMood</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">TenseAspectMood</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="CmPossibility"
+						guid="c4a56fe8-ea5e-11de-87d8-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">Direct imperative</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Direct imperative</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<SubPossibilities>
+							<ownseq
+								class="CmPossibility"
+								guid="c4b15ba0-ea5e-11de-954e-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">IMP.S</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Direct imperative</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c4bd474e-ea5e-11de-88bd-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">IMP.P</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Direct imperative</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+						</SubPossibilities>
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c4c6d0ac-ea5e-11de-9ce4-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">Subjunctive</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Subjunctive</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<SubPossibilities>
+							<ownseq
+								class="CmPossibility"
+								guid="c4d2bc5a-ea5e-11de-98bc-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">SBV</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Polite command</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c4dea812-ea5e-11de-9298-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">SBV</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Purpose</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+						</SubPossibilities>
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c4e83170-ea5e-11de-8ff3-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">Potential/conditional</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Potential/conditional</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<SubPossibilities>
+							<ownseq
+								class="CmPossibility"
+								guid="c4f41d1e-ea5e-11de-8c69-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">POT</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Potential</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c50008d6-ea5e-11de-8fe9-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">CND</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">(w/?r?) conditional</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+						</SubPossibilities>
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c5099234-ea5e-11de-9bc6-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">Potential/conditional, contrary-to-fact</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Potential/conditional, contrary-to-fact</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<SubPossibilities>
+							<ownseq
+								class="CmPossibility"
+								guid="d69085c6-ea5e-11de-8ff2-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">POT.C.F</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Potential, C.F.</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c5157de2-ea5e-11de-8717-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">CND.C.F</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">(w/ng?) conditional, C.F.</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c521699a-ea5e-11de-9e85-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">POT.C.F P2</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Potential, C.F. Past</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c52af2ee-ea5e-11de-82a2-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">CND C.F P2</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">(w/ng?) conditional, C.F. Past</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c536dea6-ea5e-11de-8e12-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">CND C.F P2</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Conditional, C.F. Past</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c542ca54-ea5e-11de-9fa2-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">CND.RS</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">If/when</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c54c53b2-ea5e-11de-94c6-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">CND.TL</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">If/when</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c5583f6a-ea5e-11de-8747-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">YET.CND</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">If/when</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+						</SubPossibilities>
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c5642b18-ea5e-11de-9faf-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">Timeless</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Timeless</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<SubPossibilities>
+							<ownseq
+								class="CmPossibility"
+								guid="c57016d0-ea5e-11de-8eaf-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">Timeless</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Timeless</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+						</SubPossibilities>
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c579a024-ea5e-11de-98e7-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">Temporal sequence</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Temporal sequence</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<SubPossibilities>
+							<ownseq
+								class="CmPossibility"
+								guid="c5858bdc-ea5e-11de-98cb-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">SQ</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Sequential</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c591778a-ea5e-11de-9d45-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">SBSC</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Subsecutive</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c59b00e8-ea5e-11de-85c7-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">SBSC.DST</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Subsecutive distal</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+						</SubPossibilities>
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c5a6eca0-ea5e-11de-99db-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">Past</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Past</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<SubPossibilities>
+							<ownseq
+								class="CmPossibility"
+								guid="c5b2d84e-ea5e-11de-9731-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">P1</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Past, recent</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c5bc61ac-ea5e-11de-8495-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">RS.FRUS</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Frustrated (RS)</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c5c84d64-ea5e-11de-8666-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">P1.FRUS</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Frustrated (P1)</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c5d43912-ea5e-11de-92d1-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">PREV PROG</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Previous, progressive</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c5ddc270-ea5e-11de-85cd-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">PREV INTS</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Previous, intentional</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c5e9ae1e-ea5e-11de-8c30-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">P2</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Past, before yesterday</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c5f599d6-ea5e-11de-922d-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">P2.ST</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Past, before yest., state</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c5ff2334-ea5e-11de-9ec7-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">P2.ST-YET</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Past, before yest., unrealized exp.</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c60b0ee2-ea5e-11de-89a0-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">P3</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Remote past</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+						</SubPossibilities>
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c616fa9a-ea5e-11de-8272-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">Present</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Present</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<SubPossibilities>
+							<ownseq
+								class="CmPossibility"
+								guid="c62083ee-ea5e-11de-8ca8-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">PROG</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Progressive state</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c62c6fa6-ea5e-11de-85d8-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">PERS PROG</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Persistive progressive state</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c6385b54-ea5e-11de-81ae-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">NEWLY PROG</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">New progressive state</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c641e4b2-ea5e-11de-9206-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">PROG INTS</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Intentional progressive state</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c64dd06a-ea5e-11de-97de-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">RS</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Resultative state</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c659bc18-ea5e-11de-98bc-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">NEG-YET</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Unrealized expectation</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+						</SubPossibilities>
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c665a7d0-ea5e-11de-9f26-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">Future</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Future</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<SubPossibilities>
+							<ownseq
+								class="CmPossibility"
+								guid="c66f312e-ea5e-11de-8ea0-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">F1</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Immediate</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c67b1cdc-ea5e-11de-91c4-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">NEWLY F1</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Future, immediate, newly</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c6870894-ea5e-11de-9f2d-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">F2</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Future, unmarked</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c69091e8-ea5e-11de-9a02-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">F2</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Intentional</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c69c7da0-ea5e-11de-9aeb-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">NEWLY F2</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Future, newly</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="CmPossibility"
+								guid="c6a8694e-ea5e-11de-9d73-0013722f8dec">
+								<Abbreviation>
+									<AUni
+										ws="en">F3</AUni>
+								</Abbreviation>
+								<BackColor
+									val="0" />
+								<DateCreated
+									val="2022-3-11 10:30:4.543" />
+								<DateModified
+									val="2022-3-11 10:30:4.543" />
+								<ForeColor
+									val="0" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Remote future</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="0" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+						</SubPossibilities>
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="c6b1f2ac-ea5e-11de-820a-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Pronouns</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Pronouns</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="CmPossibility"
+						guid="c6bdde64-ea5e-11de-9440-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">P:Ctr</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Contrastive</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c6c9ca12-ea5e-11de-9acb-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">P:Alt</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Alternative</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c6d35370-ea5e-11de-89ca-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">P:Excl</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Exclusive</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c6df3f1e-ea5e-11de-9037-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">P:Add</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Additive</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="c6eb2ad6-ea5e-11de-828c-0013722f8dec">
+				<Abbreviation>
+					<AUni
+						ws="en">Demonstratives</AUni>
+				</Abbreviation>
+				<BackColor
+					val="0" />
+				<DateCreated
+					val="2022-3-11 10:30:4.543" />
+				<DateModified
+					val="2022-3-11 10:30:4.543" />
+				<ForeColor
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Demonstratives</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="CmPossibility"
+						guid="c6f4b434-ea5e-11de-921a-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">D:P.C</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Proximal Contrastive</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c7009fe2-ea5e-11de-8474-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">D:Pr</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Proximal</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c70c8b9a-ea5e-11de-8ca8-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">D:Ne</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Nearby</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c7187748-ea5e-11de-9619-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">D:Di</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Distal</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c72200a6-ea5e-11de-875d-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">D:Re</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Remote</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c72dec5e-ea5e-11de-8271-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">D:Em.P.C</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Emphatic Proximal Contrastive</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c739d80c-ea5e-11de-82bf-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">D:Em.Pr</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Emphatic Proximal</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c743616a-ea5e-11de-8ef5-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">D:Em.Ne</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Emphatic Nearby</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c74f4d18-ea5e-11de-87a2-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">D:Em.Di</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Emphatic Distal</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c75b38d0-ea5e-11de-84e0-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">D:Em.Re</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Emphatic Remote</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c764c22e-ea5e-11de-8260-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">D:SaSet</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Same.set</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c770addc-ea5e-11de-96e9-0013722f8dec">
+						<Abbreviation>
+							<AUni
+								ws="en">D:DiSet</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2022-3-11 10:30:4.543" />
+						<DateModified
+							val="2022-3-11 10:30:4.543" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Different set</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="0" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+		</Possibilities>
+		<PreventChoiceAboveLevel
+			val="0" />
+		<PreventDuplicates
+			val="False" />
+		<PreventNodeChoices
+			val="False" />
+		<UseExtendedFields
+			val="False" />
+		<WsSelector
+			val="-3" />
+	</CmPossibilityList>
+</ChartMarkers>

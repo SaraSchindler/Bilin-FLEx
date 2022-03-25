@@ -1,0 +1,14 @@
+[ui]
+merge = chorusmerge
+username = saras
+[merge-tools]
+chorusmerge.premerge = False
+chorusmerge.executable = C:\Program Files (x86)\SIL\FLExBridge3\ChorusMerge.exe
+[web]
+cacerts = C:\Program Files (x86)\SIL\FLExBridge3\Mercurial\cacert.pem
+[format]
+[extensions]
+eol = 
+hgext.graphlog = 
+convert = 
+fixutf8 = C:\Program Files (x86)\SIL\FLExBridge3\MercurialExtensions\fixutf8\fixutf8.py

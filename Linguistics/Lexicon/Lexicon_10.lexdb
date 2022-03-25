@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lexicon>
+	<LexEntry
+		guid="5b2d91ad-e264-4eaa-bc75-cad7ad573dbf">
+		<DateCreated
+			val="2022-3-11 11:11:34.230" />
+		<DateModified
+			val="2022-3-11 11:12:56.544" />
+		<DoNotUseForParsing
+			val="False" />
+		<HomographNumber
+			val="0" />
+		<LexemeForm>
+			<MoStemAllomorph
+				guid="6b8bb754-5d6b-4314-abaf-ac9997bb6ded">
+				<Form>
+					<AUni
+						ws="byn">far</AUni>
+				</Form>
+				<IsAbstract
+					val="False" />
+				<MorphType>
+					<objsur
+						guid="d7f713e7-e8cf-11d3-9764-00c04f186933"
+						t="r" />
+				</MorphType>
+			</MoStemAllomorph>
+		</LexemeForm>
+		<MorphoSyntaxAnalyses>
+			<MoStemMsa
+				guid="3a7857b0-3dcd-44d9-9a38-69bc4bb03eac">
+				<PartOfSpeech>
+					<objsur
+						guid="86ff66f6-0774-407a-a0dc-3eeaf873daf7"
+						t="r" />
+				</PartOfSpeech>
+			</MoStemMsa>
+		</MorphoSyntaxAnalyses>
+		<Senses>
+			<ownseq
+				class="LexSense"
+				guid="66b2f46e-016b-4d1e-ad66-5dd021b91c39">
+				<Gloss>
+					<AUni
+						ws="en">go</AUni>
+				</Gloss>
+				<MorphoSyntaxAnalysis>
+					<objsur
+						guid="3a7857b0-3dcd-44d9-9a38-69bc4bb03eac"
+						t="r" />
+				</MorphoSyntaxAnalysis>
+			</ownseq>
+		</Senses>
+	</LexEntry>
+	<LexEntry
+		guid="96c399bf-dc36-413b-960e-1edf087bfee7">
+		<DateCreated
+			val="2022-3-11 10:33:51.901" />
+		<DateModified
+			val="2022-3-11 10:33:51.901" />
+		<DoNotUseForParsing
+			val="False" />
+		<HomographNumber
+			val="0" />
+		<LexemeForm>
+			<MoAffixAllomorph
+				guid="46f5ee9f-eebe-4455-888a-a823f4e5a8e2">
+				<Form>
+					<AUni
+						ws="byn">na</AUni>
+				</Form>
+				<IsAbstract
+					val="False" />
+				<MorphType>
+					<objsur
+						guid="d7f713dd-e8cf-11d3-9764-00c04f186933"
+						t="r" />
+				</MorphType>
+			</MoAffixAllomorph>
+		</LexemeForm>
+		<MorphoSyntaxAnalyses>
+			<MoInflAffMsa
+				guid="07616d6b-262e-4c25-9767-15d82a8ca53f">
+				<PartOfSpeech>
+					<objsur
+						guid="86ff66f6-0774-407a-a0dc-3eeaf873daf7"
+						t="r" />
+				</PartOfSpeech>
+			</MoInflAffMsa>
+		</MorphoSyntaxAnalyses>
+		<Senses>
+			<ownseq
+				class="LexSense"
+				guid="3bb1e4f7-99b2-4a05-a11d-a16896383471">
+				<Gloss>
+					<AUni
+						ws="en">INF</AUni>
+				</Gloss>
+				<MorphoSyntaxAnalysis>
+					<objsur
+						guid="07616d6b-262e-4c25-9767-15d82a8ca53f"
+						t="r" />
+				</MorphoSyntaxAnalysis>
+			</ownseq>
+		</Senses>
+	</LexEntry>
+</Lexicon>
