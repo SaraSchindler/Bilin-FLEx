@@ -4,6 +4,7 @@
     <WritingSystem id="en">
       <Abbreviation>Eng</Abbreviation>
       <LanguageName>English</LanguageName>
+      <SystemCollation />
     </WritingSystem>
     <WritingSystem id="byn">
       <Abbreviation>Bil</Abbreviation>
