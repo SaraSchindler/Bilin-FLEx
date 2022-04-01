@@ -16,5 +16,11 @@
       <LanguageName>German</LanguageName>
       <SystemCollation>de</SystemCollation>
     </WritingSystem>
+    <WritingSystem id="byn-fonipa">
+      <Abbreviation>Bil</Abbreviation>
+      <LanguageName>Bilin</LanguageName>
+      <SpellCheckingId>byn</SpellCheckingId>
+      <SystemCollation />
+    </WritingSystem>
   </WritingSystems>
 </ProjectLexiconSettings>

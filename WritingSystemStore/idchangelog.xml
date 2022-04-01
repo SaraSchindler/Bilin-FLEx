@@ -20,5 +20,12 @@
 			TimeStamp="2022-03-11T10:30:06Z">
 			<Id>de</Id>
 		</Add>
+		<Change
+			Producer="FieldWorks"
+			ProducerVersion="Version 9.0.17 (apparent build date: 07-Jul-2021)"
+			TimeStamp="2022-04-01T10:35:04Z">
+			<From>byn</From>
+			<To>byn-fonipa</To>
+		</Change>
 	</Changes>
 </WritingSystemChangeLog>

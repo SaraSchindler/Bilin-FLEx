@@ -1,30 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfProperty xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Property>
-    <name>db$local$OccurrencesOfSelectedUnit-Index</name>
+    <name>db$local$grammar$posEdit$CurrentSliceObjectGuid</name>
+    <value xmlns:q1="http://microsoft.com/wsdl/types/" xsi:type="q1:guid">00000000-0000-0000-0000-000000000000</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$ITexts_ShowAddWordsToLexiconDlg</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$PartsOfSpeech.posEdit.DataTree-Splitter</name>
+    <value xsi:type="xsd:int">200</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$CmPossibilityList.PartsOfSpeech_sortName</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$LexDb.Entries_sortName</name>
+    <value xsi:type="xsd:string">Headword</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$LexDb.Entries_filter</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$lists$domainTypeEdit$CurrentSliceObjectGuid</name>
+    <value xmlns:q2="http://microsoft.com/wsdl/types/" xsi:type="q2:guid">00000000-0000-0000-0000-000000000000</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$ITexts-ScriptureIds</name>
+    <value xsi:type="xsd:string" />
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$notebookEdit_recordList_Column_4_Width</name>
     <value xsi:type="xsd:int">-1</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$ShowHiddenFields-lexiconEdit</name>
-    <value xsi:type="xsd:boolean">false</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$LangProject.InterestingTexts_sorter</name>
-    <value xsi:type="xsd:string">&lt;sorter assemblyPath="Filters.dll" class="SIL.FieldWorks.Filters.GenRecordSorter"&gt;&lt;comparer assemblyPath="Filters.dll" class="SIL.FieldWorks.Filters.StringFinderCompare"&gt;&lt;finder assemblyPath="XMLViews.dll" class="SIL.FieldWorks.Common.Controls.LayoutFinder" layout=""&gt;&lt;column label="Title" width="144000" chooserFilter="special"&gt;&lt;dynamicloaderinfo assemblyPath="ITextDll.dll" class="SIL.FieldWorks.IText.TextsFilterItem" /&gt;&lt;string field="Title" ws="$ws=best vernoranal" /&gt;&lt;/column&gt;&lt;/finder&gt;&lt;comparer assemblyPath="Filters.dll" class="SIL.FieldWorks.Filters.WritingSystemComparer" ws="de" /&gt;&lt;/comparer&gt;&lt;/sorter&gt;</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$InterlinConfig_Edit_Interlinearizer</name>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
     <name>db$local$ITexts-Bookmark--CharBeginOffset</name>
+    <value xsi:type="xsd:int">0</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$InterlinConfig_Doc_PrintView</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$lexiconEdit_lexentryList_Column_1_Width</name>
+    <value xsi:type="xsd:int">-1</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$lexicon$lexiconEdit$CurrentSlicePartName</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$lexiconEdit_lexentryList_Column_3_Width</name>
+    <value xsi:type="xsd:int">-1</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$Show_DictionaryPubPreview</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$ITexts-Bookmark--IndexOfRecord</name>
     <value xsi:type="xsd:int">0</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
@@ -36,111 +99,19 @@
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$ITexts-ScriptureIds</name>
-    <value xsi:type="xsd:string" />
+    <name>db$local$ConcordanceLine</name>
+    <value xsi:type="xsd:string">kBaseline</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$InterlinConfig_Edit_Gloss</name>
+    <name>db$local$CmPossibilityList.SemanticDomainList_filter</name>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$PartsOfSpeech.posEdit.DataTree-Splitter</name>
-    <value xsi:type="xsd:int">200</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$ConcordanceText</name>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$lexiconEdit_lexentryList_Column_1_Width</name>
-    <value xsi:type="xsd:int">-1</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$LangProject.InterestingTexts_filter</name>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$ConcordanceMatchDiacritics</name>
-    <value xsi:type="xsd:boolean">false</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$interlinearEdit_textsChooser_Column_0_Width</name>
-    <value xsi:type="xsd:int">-1</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$SortedFromEnd</name>
-    <value xsi:type="xsd:boolean">false</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$concordance_wordOccurrenceList_Column_0_Width</name>
-    <value xsi:type="xsd:int">-1</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$ToolForAreaNamed_notebook</name>
-    <value xsi:type="xsd:string">notebookEdit</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$interlinearEdit_textsChooser_ColumnList</name>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$SemanticDomainList-Index</name>
-    <value xsi:type="xsd:int">0</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$ITexts-Bookmark--CharEndOffset</name>
-    <value xsi:type="xsd:int">5</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$entries-Index</name>
-    <value xsi:type="xsd:int">3</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$InitialArea</name>
-    <value xsi:type="xsd:string">lexicon</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$LangProject.InterestingTexts_sortName</name>
-    <value xsi:type="xsd:string">Title</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$lexiconEdit_lexentryList_Column_2_Width</name>
-    <value xsi:type="xsd:int">-1</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$lexiconEdit_lexentryMatchList_ColumnList</name>
+    <name>db$local$textsWords$interlinearEdit$CurrentSliceObjectGuid</name>
+    <value xmlns:q3="http://microsoft.com/wsdl/types/" xsi:type="q3:guid">00000000-0000-0000-0000-000000000000</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
@@ -151,40 +122,71 @@
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$CmPossibilityList.SemanticDomainList_sortName</name>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$lexiconEdit_lexentryList_ColumnList</name>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$ConcordanceMatchCase</name>
+    <name>db$local$ShowFailingItems-lexiconClassifiedDictionary</name>
     <value xsi:type="xsd:boolean">false</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$CmPossibilityList.SemanticDomainList_filter</name>
+    <name>db$local$CmPossibilityList.SemanticDomainList_sorter</name>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$ToolForAreaNamed_grammar</name>
-    <value xsi:type="xsd:string">posEdit</value>
+    <name>db$local$SelectedPublication</name>
+    <value xsi:type="xsd:string">Main Dictionary</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$ToolForAreaNamed_lexicon</name>
-    <value xsi:type="xsd:string">lexiconEdit</value>
+    <name>db$local$CmPossibilityList.DomainTypes_sorter</name>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$ShowHiddenFields-interlinearEdit</name>
+    <name>db$local$notebookEdit_recordList_Column_0_Width</name>
+    <value xsi:type="xsd:int">-1</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$ITexts-Bookmark--IndexOfParagraph</name>
+    <value xsi:type="xsd:int">0</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$PartsOfSpeech.posAdvancedEdit.DataTree-Splitter</name>
+    <value xsi:type="xsd:int">200</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$LangProject.ConcOccurrences_sorter</name>
+    <value xsi:type="xsd:string">&lt;sorter assemblyPath="Filters.dll" class="SIL.FieldWorks.Filters.GenRecordSorter"&gt;&lt;comparer assemblyPath="Filters.dll" class="SIL.FieldWorks.Filters.StringFinderCompare"&gt;&lt;finder assemblyPath="XMLViews.dll" class="SIL.FieldWorks.Common.Controls.LayoutFinder" layout=""&gt;&lt;column label="Ref" width="60000"&gt;&lt;span&gt;&lt;properties&gt;&lt;editable value="false" /&gt;&lt;/properties&gt;&lt;string class="FakeOccurrence" field="Reference" ws="$ws=best vernoranal" /&gt;&lt;/span&gt;&lt;/column&gt;&lt;/finder&gt;&lt;comparer assemblyPath="Filters.dll" class="SIL.FieldWorks.Filters.WritingSystemComparer" ws="de" /&gt;&lt;/comparer&gt;&lt;/sorter&gt;</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$records-Index</name>
+    <value xsi:type="xsd:int">-1</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$OccurrencesOfSelectedUnit-Index</name>
+    <value xsi:type="xsd:int">-1</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$SortedByLength</name>
+    <value xsi:type="xsd:boolean">false</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$ConcordanceMatchCase</name>
     <value xsi:type="xsd:boolean">false</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
@@ -196,67 +198,14 @@
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$SortedByLength</name>
-    <value xsi:type="xsd:boolean">false</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$LexDb.Entries_sortName</name>
-    <value xsi:type="xsd:string">Headword</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$lexiconEdit_lexentryMatchList_Column_1_Width</name>
-    <value xsi:type="xsd:int">-1</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$lexiconEdit_lexentryList_Column_0_Width</name>
-    <value xsi:type="xsd:int">-1</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$interlinearEdit_lexentryMatchList_ColumnList</name>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$textsWords$interlinearEdit$CurrentSliceObjectGuid</name>
-    <value xmlns:q1="http://microsoft.com/wsdl/types/" xsi:type="q1:guid">00000000-0000-0000-0000-000000000000</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$ClickInvisibleSpace</name>
-    <value xsi:type="xsd:boolean">false</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$LangProject.ConcOccurrences_sortName</name>
-    <value xsi:type="xsd:string">Ref</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$LangProject.ConcOccurrences_sorter</name>
-    <value xsi:type="xsd:string">&lt;sorter assemblyPath="Filters.dll" class="SIL.FieldWorks.Filters.GenRecordSorter"&gt;&lt;comparer assemblyPath="Filters.dll" class="SIL.FieldWorks.Filters.StringFinderCompare"&gt;&lt;finder assemblyPath="XMLViews.dll" class="SIL.FieldWorks.Common.Controls.LayoutFinder" layout=""&gt;&lt;column label="Ref" width="60000"&gt;&lt;span&gt;&lt;properties&gt;&lt;editable value="false" /&gt;&lt;/properties&gt;&lt;string class="FakeOccurrence" field="Reference" ws="$ws=best vernoranal" /&gt;&lt;/span&gt;&lt;/column&gt;&lt;/finder&gt;&lt;comparer assemblyPath="Filters.dll" class="SIL.FieldWorks.Filters.WritingSystemComparer" ws="de" /&gt;&lt;/comparer&gt;&lt;/sorter&gt;</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
     <name>db$local$lexiconEdit_lexentryMatchList_Column_0_Width</name>
     <value xsi:type="xsd:int">-1</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$SelectedPublication</name>
-    <value xsi:type="xsd:string">Main Dictionary</value>
+    <name>db$local$interlinearEdit_textsChooser_Column_0_Width</name>
+    <value xsi:type="xsd:int">-1</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
@@ -266,37 +215,24 @@
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$ITexts-Bookmark--IndexOfParagraph</name>
-    <value xsi:type="xsd:int">0</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$ITexts_ShowAddWordsToLexiconDlg</name>
-    <value xsi:type="xsd:boolean">true</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$ConcordanceOption</name>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$interlinearTexts-Index</name>
-    <value xsi:type="xsd:int">0</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$LastBridgeUsed</name>
-    <value xsi:type="xsd:string">FLExBridge</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$interlinearEdit_lexentryMatchList_Column_0_Width</name>
+    <name>db$local$notebookEdit_recordList_Column_5_Width</name>
     <value xsi:type="xsd:int">-1</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$ShowHiddenFields-interlinearEdit</name>
+    <value xsi:type="xsd:boolean">false</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$ConcordanceWs</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$RnResearchNbk.AllRecords_filter</name>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
@@ -307,25 +243,31 @@
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$interlinearEdit_lexentryMatchList_Column_1_Width</name>
+    <name>db$local$ConcordanceMatchDiacritics</name>
+    <value xsi:type="xsd:boolean">false</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$lists$domainTypeEdit$CurrentSlicePartName</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$lexiconEdit_lexentryMatchList_Column_1_Width</name>
     <value xsi:type="xsd:int">-1</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$InterlinConfig_Doc</name>
+    <name>db$local$RnResearchNbk.AllRecords_sortName</name>
+    <value xsi:type="xsd:string">Date of Event</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$PartsOfSpeech.posAdvancedEdit.DataTree-Splitter</name>
-    <value xsi:type="xsd:int">200</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$ITexts-Bookmark--IndexOfRecord</name>
-    <value xsi:type="xsd:int">0</value>
+    <name>db$local$ITexts-Bookmark--CharEndOffset</name>
+    <value xsi:type="xsd:int">5</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
@@ -335,46 +277,84 @@
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$CmPossibilityList.SemanticDomainList_sorter</name>
+    <name>db$local$InterlinConfig_Doc</name>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$ShowFailingItems-lexiconClassifiedDictionary</name>
+    <name>db$local$notebookEdit_recordList_Column_1_Width</name>
+    <value xsi:type="xsd:int">-1</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$InterlinConfig_Edit_Interlinearizer</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$RnResearchNbk.AllRecords_sorter</name>
+    <value xsi:type="xsd:string">&lt;sorter assemblyPath="Filters.dll" class="SIL.FieldWorks.Filters.GenRecordSorter"&gt;&lt;comparer assemblyPath="Filters.dll" class="SIL.FieldWorks.Filters.StringFinderCompare"&gt;&lt;finder assemblyPath="XMLViews.dll" class="SIL.FieldWorks.Common.Controls.LayoutFinder" layout="DateOfEvent"&gt;&lt;column layout="DateOfEvent" label="Date of Event" width="72000" sortType="genDate" visibility="always" /&gt;&lt;/finder&gt;&lt;comparer assemblyPath="Filters.dll" class="SIL.FieldWorks.Filters.WritingSystemComparer" ws="de" /&gt;&lt;/comparer&gt;&lt;/sorter&gt;</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$CmPossibilityList.DomainTypes_sortName</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$ToolForAreaNamed_lexicon</name>
+    <value xsi:type="xsd:string">lexiconEdit</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$CmPossibilityList.PartsOfSpeech_sorter</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$LastBridgeUsed</name>
+    <value xsi:type="xsd:string">FLExBridge</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$interlinearEdit_lexentryMatchList_ColumnList</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$interlinearEdit_textsChooser_ColumnList</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$lexiconEdit_lexentryList_Column_0_Width</name>
+    <value xsi:type="xsd:int">-1</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$lexiconEdit_lexentryMatchList_ColumnList</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$InterlinConfig_Edit_Gloss</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$SortedFromEnd</name>
     <value xsi:type="xsd:boolean">false</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$ConcordanceLine</name>
-    <value xsi:type="xsd:string">kBaseline</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$InterlinConfig_Doc_TaggingView</name>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$Show_DictionaryPubPreview</name>
-    <value xsi:type="xsd:boolean">true</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$lexicon$lexiconEdit$CurrentSliceObjectGuid</name>
-    <value xmlns:q2="http://microsoft.com/wsdl/types/" xsi:type="q2:guid">00000000-0000-0000-0000-000000000000</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$lexicon$lexiconEdit$CurrentSlicePartName</name>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$ConcordanceWs</name>
+    <name>db$local$lexiconEdit_lexentryList_Column_2_Width</name>
+    <value xsi:type="xsd:int">-1</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
@@ -385,18 +365,42 @@
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$lexiconEdit_lexentryList_Column_3_Width</name>
+    <name>db$local$ConcordanceOption</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$lexiconEdit_lexentryList_ColumnList</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$ShowHiddenFields-lexiconEdit</name>
+    <value xsi:type="xsd:boolean">false</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$ShowHiddenFields-posEdit</name>
+    <value xsi:type="xsd:boolean">false</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$interlinearEdit_lexentryMatchList_Column_1_Width</name>
     <value xsi:type="xsd:int">-1</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$LexDb.Entries_filter</name>
+    <name>db$local$SemanticDomainList-Index</name>
+    <value xsi:type="xsd:int">0</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$concordance_wordOccurrenceList_ColumnList</name>
+    <name>db$local$LangProject.InterestingTexts_sorter</name>
+    <value xsi:type="xsd:string">&lt;sorter assemblyPath="Filters.dll" class="SIL.FieldWorks.Filters.GenRecordSorter"&gt;&lt;comparer assemblyPath="Filters.dll" class="SIL.FieldWorks.Filters.StringFinderCompare"&gt;&lt;finder assemblyPath="XMLViews.dll" class="SIL.FieldWorks.Common.Controls.LayoutFinder" layout=""&gt;&lt;column label="Title" width="144000" chooserFilter="special"&gt;&lt;dynamicloaderinfo assemblyPath="ITextDll.dll" class="SIL.FieldWorks.IText.TextsFilterItem" /&gt;&lt;string field="Title" ws="$ws=best vernoranal" /&gt;&lt;/column&gt;&lt;/finder&gt;&lt;comparer assemblyPath="Filters.dll" class="SIL.FieldWorks.Filters.WritingSystemComparer" ws="de" /&gt;&lt;/comparer&gt;&lt;/sorter&gt;</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
@@ -407,7 +411,161 @@
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$InterlinConfig_Doc_PrintView</name>
+    <name>db$local$notebookEdit_recordList_ColumnList</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$ToolForAreaNamed_grammar</name>
+    <value xsi:type="xsd:string">posEdit</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$interlinearEdit_lexentryMatchList_Column_0_Width</name>
+    <value xsi:type="xsd:int">-1</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$lexicon$lexiconEdit$CurrentSliceObjectGuid</name>
+    <value xmlns:q4="http://microsoft.com/wsdl/types/" xsi:type="q4:guid">00000000-0000-0000-0000-000000000000</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$notebookEdit_recordList_Column_6_Width</name>
+    <value xsi:type="xsd:int">-1</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$interlinearTexts-Index</name>
+    <value xsi:type="xsd:int">0</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$ShowHiddenFields-domainTypeEdit</name>
+    <value xsi:type="xsd:boolean">false</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$concordance_wordOccurrenceList_ColumnList</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$ShowHiddenFields-notebookEdit</name>
+    <value xsi:type="xsd:boolean">false</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$InterlinConfig_Doc_TaggingView</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$LangProject.InterestingTexts_sortName</name>
+    <value xsi:type="xsd:string">Title</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$InitialArea</name>
+    <value xsi:type="xsd:string">lexicon</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$notebookEdit_recordList_Column_7_Width</name>
+    <value xsi:type="xsd:int">-1</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$CmPossibilityList.PartsOfSpeech_filter</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$concordance_wordOccurrenceList_Column_0_Width</name>
+    <value xsi:type="xsd:int">-1</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$CmPossibilityList.DomainTypes_filter</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$notebookEdit_recordList_Column_2_Width</name>
+    <value xsi:type="xsd:int">-1</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$grammar$posEdit$CurrentSlicePartName</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$LangProject.InterestingTexts_filter</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$notebookEdit_recordList_Column_3_Width</name>
+    <value xsi:type="xsd:int">-1</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$categories-Index</name>
+    <value xsi:type="xsd:int">0</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$ConcordanceText</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$LangProject.ConcOccurrences_sortName</name>
+    <value xsi:type="xsd:string">Ref</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$ToolForAreaNamed_notebook</name>
+    <value xsi:type="xsd:string">notebookEdit</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$DomainTypeList-Index</name>
+    <value xsi:type="xsd:int">0</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$entries-Index</name>
+    <value xsi:type="xsd:int">2</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$CmPossibilityList.SemanticDomainList_sortName</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$ClickInvisibleSpace</name>
+    <value xsi:type="xsd:boolean">false</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
