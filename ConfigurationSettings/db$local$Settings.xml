@@ -53,7 +53,7 @@
   </Property>
   <Property>
     <name>db$local$entries-Index</name>
-    <value xsi:type="xsd:int">30</value>
+    <value xsi:type="xsd:int">31</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
@@ -341,13 +341,13 @@
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$grammar$posEdit$CurrentSliceObjectGuid</name>
-    <value xmlns:q2="http://microsoft.com/wsdl/types/" xsi:type="q2:guid">00000000-0000-0000-0000-000000000000</value>
+    <name>db$local$InterlinConfig_Doc_PrintView</name>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$InterlinConfig_Doc_PrintView</name>
+    <name>db$local$grammar$posEdit$CurrentSliceObjectGuid</name>
+    <value xmlns:q2="http://microsoft.com/wsdl/types/" xsi:type="q2:guid">00000000-0000-0000-0000-000000000000</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
@@ -494,18 +494,18 @@
   </Property>
   <Property>
     <name>db$local$lexicon$lexiconEdit$CurrentSliceObjectGuid</name>
-    <value xmlns:q4="http://microsoft.com/wsdl/types/" xsi:type="q4:guid">b85a7348-a41a-450f-b2c2-7d611a9beef0</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$LexDb.Entries_filter</name>
+    <value xmlns:q4="http://microsoft.com/wsdl/types/" xsi:type="q4:guid">d08c3af9-9174-41cf-bf91-d710de3a617a</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
   <Property>
     <name>db$local$ITexts-Bookmark--IndexOfParagraph</name>
     <value xsi:type="xsd:int">0</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$LexDb.Entries_filter</name>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
@@ -543,19 +543,19 @@
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$ConcordanceOption</name>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
     <name>db$local$ShowHiddenFields-domainTypeEdit</name>
     <value xsi:type="xsd:boolean">false</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
   <Property>
+    <name>db$local$ConcordanceOption</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
     <name>db$local$lexicon$lexiconEdit$CurrentSlicePartName</name>
-    <value xsi:type="xsd:string">MoForm-Detail-AsLexemeForm</value>
+    <value xsi:type="xsd:string" />
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
