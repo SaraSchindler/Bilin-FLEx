@@ -15,7 +15,7 @@
     <WritingSystem id="de">
       <Abbreviation>Ger</Abbreviation>
       <LanguageName>German</LanguageName>
-      <SystemCollation>de</SystemCollation>
+      <SystemCollation />
     </WritingSystem>
     <WritingSystem id="byn-fonipa">
       <Abbreviation>Bil</Abbreviation>

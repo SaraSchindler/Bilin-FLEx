@@ -19,13 +19,16 @@
     </WritingSystem>
     <WritingSystem id="de">
       <LocalKeyboard>de-CH_Deutsch (Schweiz)_Deutsch (Schweiz)</LocalKeyboard>
+      <KnownKeyboards>
+        <KnownKeyboard>de-CH_Deutsch (Schweiz)_Deutsch (Schweiz)</KnownKeyboard>
+      </KnownKeyboards>
       <DefaultFontName>Charis SIL</DefaultFontName>
     </WritingSystem>
     <WritingSystem id="byn-fonipa">
       <LocalKeyboard>de-DE_Deutsch - IPA_Deutsch - IPA</LocalKeyboard>
       <KnownKeyboards>
-        <KnownKeyboard>de-CH_Deutsch (Schweiz)_Deutsch (Schweiz)</KnownKeyboard>
         <KnownKeyboard>de-DE_Deutsch - IPA_Deutsch - IPA</KnownKeyboard>
+        <KnownKeyboard>de-CH_Deutsch (Schweiz)_Deutsch (Schweiz)</KnownKeyboard>
       </KnownKeyboards>
       <DefaultFontName>Charis SIL</DefaultFontName>
       <IsGraphiteEnabled>false</IsGraphiteEnabled>

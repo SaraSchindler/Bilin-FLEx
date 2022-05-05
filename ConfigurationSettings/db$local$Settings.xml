@@ -53,7 +53,7 @@
   </Property>
   <Property>
     <name>db$local$entries-Index</name>
-    <value xsi:type="xsd:int">13</value>
+    <value xsi:type="xsd:int">33</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
@@ -87,7 +87,7 @@
   </Property>
   <Property>
     <name>db$local$interlinearTexts-Index</name>
-    <value xsi:type="xsd:int">2</value>
+    <value xsi:type="xsd:int">0</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
@@ -237,7 +237,7 @@
   </Property>
   <Property>
     <name>db$local$ITexts-Bookmark--CharEndOffset</name>
-    <value xsi:type="xsd:int">4</value>
+    <value xsi:type="xsd:int">0</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
@@ -326,7 +326,7 @@
   </Property>
   <Property>
     <name>db$local$ITexts-Bookmark--IndexOfRecord</name>
-    <value xsi:type="xsd:int">2</value>
+    <value xsi:type="xsd:int">0</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
@@ -494,7 +494,7 @@
   </Property>
   <Property>
     <name>db$local$lexicon$lexiconEdit$CurrentSliceObjectGuid</name>
-    <value xmlns:q4="http://microsoft.com/wsdl/types/" xsi:type="q4:guid">00000000-0000-0000-0000-000000000000</value>
+    <value xmlns:q4="http://microsoft.com/wsdl/types/" xsi:type="q4:guid">d1442d7c-631b-4b05-a5bc-578ff271f106</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
@@ -555,6 +555,7 @@
   </Property>
   <Property>
     <name>db$local$lexicon$lexiconEdit$CurrentSlicePartName</name>
+    <value xsi:type="xsd:string">MoForm-Detail-AsLexemeForm</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>

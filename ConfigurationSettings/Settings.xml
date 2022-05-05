@@ -66,6 +66,12 @@
     <doDispose>false</doDispose>
   </Property>
   <Property>
+    <name>expandmHGiIoFPskOjcWfDHvMP8A==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
     <name>LinkSetupInfo</name>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
@@ -91,6 +97,12 @@
   <Property>
     <name>categories.advancedEdit.DataTree-SliceSplitterBaseDistance</name>
     <value xsi:type="xsd:int">150</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandOo0+IicbokeRcG9lGs0omg==</name>
+    <value xsi:type="xsd:boolean">true</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
@@ -197,6 +209,12 @@
     <doDispose>false</doDispose>
   </Property>
   <Property>
+    <name>expandHVAydInHckWEGjL41HhDxQ==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
     <name>expandX9l/xKdZskKWWEdMg8XBuA==</name>
     <value xsi:type="xsd:boolean">true</value>
     <doPersist>true</doPersist>
@@ -222,6 +240,12 @@
   </Property>
   <Property>
     <name>expandmWiyIpVA90GStvKaRE3adQ==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandRaRJ23/oLUWEB6a7xZbtGQ==</name>
     <value xsi:type="xsd:boolean">true</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
@@ -258,7 +282,7 @@
   </Property>
   <Property>
     <name>InterlinearTab</name>
-    <value xsi:type="xsd:string">Interlinearizer</value>
+    <value xsi:type="xsd:string">RawText</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
@@ -389,6 +413,12 @@
     <doDispose>false</doDispose>
   </Property>
   <Property>
+    <name>expandHhW6vNOc4kWzlsMtzkcliQ==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
     <name>expandIRMKb86Hx0ejF5sCB+a1Ag==</name>
     <value xsi:type="xsd:boolean">true</value>
     <doPersist>true</doPersist>
@@ -485,6 +515,12 @@
     <doDispose>false</doDispose>
   </Property>
   <Property>
+    <name>expandYP4ompkMoUi1/1W2zezDFw==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
     <name>expand0NCwPDVxyEae5KU47gx0Tw==</name>
     <value xsi:type="xsd:boolean">true</value>
     <doPersist>true</doPersist>
@@ -531,6 +567,12 @@
   </Property>
   <Property>
     <name>expand1LULYEEGzkKDviflivv75g==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandZRkWOMBG60i5zSPTuo/8UQ==</name>
     <value xsi:type="xsd:boolean">true</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
@@ -597,6 +639,12 @@
   </Property>
   <Property>
     <name>UseVernSpellingDictionary</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandqGLpGP6Fh0WBDtJptA7aBA==</name>
     <value xsi:type="xsd:boolean">true</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
@@ -692,6 +740,12 @@
     <doDispose>false</doDispose>
   </Property>
   <Property>
+    <name>expand6dFp4ljzTEu2bGY4A4ltvA==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
     <name>expanduSrVycj3QESRyp3kETTpAw==</name>
     <value xsi:type="xsd:boolean">true</value>
     <doPersist>true</doPersist>
@@ -721,6 +775,12 @@
       <X>78</X>
       <Y>78</Y>
     </value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expand+TqM0HSRz0G/kdcQ3jpheg==</name>
+    <value xsi:type="xsd:boolean">true</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
@@ -791,7 +851,19 @@
     <doDispose>false</doDispose>
   </Property>
   <Property>
+    <name>expandA+ET8bL270Gye6yj9pOACg==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
     <name>expanduaYPeN2zX0GXTPekDPuM1A==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expandfC1E0RtjBUulvFeP8nHxBg==</name>
     <value xsi:type="xsd:boolean">true</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
@@ -814,6 +886,12 @@
     <doDispose>false</doDispose>
   </Property>
   <Property>
+    <name>expand5yMX/ANzGUm6OyKIzZxUag==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
     <name>expandsFd4Os092USaOGm8S7A+rA==</name>
     <value xsi:type="xsd:boolean">true</value>
     <doPersist>true</doPersist>
@@ -827,6 +905,12 @@
   </Property>
   <Property>
     <name>expandaOSKfxB2xUqXpPWLer5SqA==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expanddVVJXIwNJkW5L/ahLeaSLg==</name>
     <value xsi:type="xsd:boolean">true</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
@@ -892,6 +976,12 @@
     <doDispose>false</doDispose>
   </Property>
   <Property>
+    <name>expandXNh22WPu/UO6absOeTYhNA==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
     <name>expandUAYxbrQ1nkOFDf6SlB2mWg==</name>
     <value xsi:type="xsd:boolean">true</value>
     <doPersist>true</doPersist>
@@ -917,6 +1007,12 @@
   </Property>
   <Property>
     <name>expandkk/kTproc0uyAw03zDU90Q==</name>
+    <value xsi:type="xsd:boolean">true</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>expand/k/VcuQQD0mub09xp2KhBQ==</name>
     <value xsi:type="xsd:boolean">true</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
