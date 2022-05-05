@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserLexiconSettings>
+  <WritingSystems>
+    <WritingSystem id="byn-fonipa">
+      <LocalKeyboard>de-CH_Deutsch (Schweiz)_Deutsch (Schweiz)</LocalKeyboard>
+      <DefaultFontName>Charis SIL</DefaultFontName>
+    </WritingSystem>
+    <WritingSystem id="de">
+      <LocalKeyboard>de-CH_Deutsch (Schweiz)_Deutsch (Schweiz)</LocalKeyboard>
+      <DefaultFontName>Charis SIL</DefaultFontName>
+    </WritingSystem>
+  </WritingSystems>
+</UserLexiconSettings>
