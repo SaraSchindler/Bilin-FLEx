@@ -87,7 +87,7 @@
   </Property>
   <Property>
     <name>db$local$interlinearTexts-Index</name>
-    <value xsi:type="xsd:int">0</value>
+    <value xsi:type="xsd:int">3</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
@@ -207,7 +207,7 @@
   </Property>
   <Property>
     <name>db$local$InitialArea</name>
-    <value xsi:type="xsd:string">lexicon</value>
+    <value xsi:type="xsd:string">textsWords</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
@@ -326,7 +326,7 @@
   </Property>
   <Property>
     <name>db$local$ITexts-Bookmark--IndexOfRecord</name>
-    <value xsi:type="xsd:int">0</value>
+    <value xsi:type="xsd:int">3</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
@@ -341,13 +341,13 @@
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$InterlinConfig_Doc_PrintView</name>
+    <name>db$local$grammar$posEdit$CurrentSliceObjectGuid</name>
+    <value xmlns:q2="http://microsoft.com/wsdl/types/" xsi:type="q2:guid">00000000-0000-0000-0000-000000000000</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$grammar$posEdit$CurrentSliceObjectGuid</name>
-    <value xmlns:q2="http://microsoft.com/wsdl/types/" xsi:type="q2:guid">00000000-0000-0000-0000-000000000000</value>
+    <name>db$local$InterlinConfig_Doc_PrintView</name>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
@@ -494,18 +494,18 @@
   </Property>
   <Property>
     <name>db$local$lexicon$lexiconEdit$CurrentSliceObjectGuid</name>
-    <value xmlns:q4="http://microsoft.com/wsdl/types/" xsi:type="q4:guid">d08c3af9-9174-41cf-bf91-d710de3a617a</value>
+    <value xmlns:q4="http://microsoft.com/wsdl/types/" xsi:type="q4:guid">51e55260-c474-4742-bae6-f19a144f52c1</value>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
+    <name>db$local$LexDb.Entries_filter</name>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
   <Property>
     <name>db$local$ITexts-Bookmark--IndexOfParagraph</name>
     <value xsi:type="xsd:int">0</value>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
-    <name>db$local$LexDb.Entries_filter</name>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
@@ -543,19 +543,19 @@
     <doDispose>false</doDispose>
   </Property>
   <Property>
+    <name>db$local$ConcordanceOption</name>
+    <doPersist>true</doPersist>
+    <doDispose>false</doDispose>
+  </Property>
+  <Property>
     <name>db$local$ShowHiddenFields-domainTypeEdit</name>
     <value xsi:type="xsd:boolean">false</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
   <Property>
-    <name>db$local$ConcordanceOption</name>
-    <doPersist>true</doPersist>
-    <doDispose>false</doDispose>
-  </Property>
-  <Property>
     <name>db$local$lexicon$lexiconEdit$CurrentSlicePartName</name>
-    <value xsi:type="xsd:string" />
+    <value xsi:type="xsd:string">MoForm-Detail-AsLexemeForm</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>

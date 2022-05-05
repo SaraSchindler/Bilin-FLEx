@@ -2,3 +2,5 @@
 *.lock
 
 Temp/
+
+ConfigurationSettings/Settings.xml
